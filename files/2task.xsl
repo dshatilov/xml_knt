@@ -1,9 +1,9 @@
 <x:stylesheet version="1.0" xmlns:x="http://www.w3.org/1999/XSL/Transform">
     <x:output method="xml" indent="yes"/>
     <x:template match="formats">
-    <x:copy>
-        <x:apply-templates select="@*|*"/>
-    </x:copy>
+        <x:copy>
+            <x:apply-templates select="@*|*"/>
+        </x:copy>
     </x:template>
 
     <x:template match="format">

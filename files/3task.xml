@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8"?><formats>
+<format gfv="400801" fileName="stat_bookkeeping_forms_r66">
+    <name>Бухгалтерская статистическая отчётность</name>
+    <shortName>Бухгалтерская статистическая отчётность</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version/>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>true</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+  </format>
+<format gfv="1200101" fileName="UnformattedStatistics">
+    <name>Отправка готового файла в статистику</name>
+    <shortName>Отправка готового файла в статистику</shortName>
+    <periodBegin>01.01.1980</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version/>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="402201" fileName="new_616007001012_1">
+    <name>Форма 1-цены производителей - Сведения о ценах производителей промышленных товаров (работ, услуг)</name>
+    <shortName>Форма 1-цены производителей</shortName>
+    <periodBegin>22.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401201" fileName="new_401201">
+    <name>Форма 1-ИНВЕСТ - Сведения об инвестициях в Россию из-за рубежа и инвестициях из России за рубеж</name>
+    <shortName>Форма 1-ИНВЕСТ</shortName>
+    <periodBegin>01.01.2010</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1.01</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="402501" fileName="new_614001001004_1">
+    <name>Форма 1-конъюнктура - Обследование конъюнктуры и деловой активности в розничной торговле</name>
+    <shortName>Форма 1-конъюнктура</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402401" fileName="new_616012003012_1">
+    <name>Форма 1-сх (цены) - Сведения о ценах производителей с/х продукции</name>
+    <shortName>Форма 1-сх (цены)</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401801" fileName="new_609203002004_1">
+    <name>Форма 22-ЖКХ (сводная) - Сведения о работе жилищно-коммунальных организаций в условиях реформы</name>
+    <shortName>Форма 22-ЖКХ (сводная)</shortName>
+    <periodBegin>21.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402301" fileName="new_607013001004_1">
+    <name>Форма 3-СБ (вывоз)</name>
+    <shortName>Форма 3-СБ (вывоз)</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401901" fileName="new_614009002004_1">
+    <name>Форма 3-торг (пм)</name>
+    <shortName>Форма 3-торг (пм)</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401401" fileName="new_401401">
+    <name>Форма 4-ЗАПАСЫ - Сведения о запасах топлива</name>
+    <shortName>Форма 4-ЗАПАСЫ</shortName>
+    <periodBegin>01.01.2010</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1.01</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="401101" fileName="new_608014001001_1">
+    <name>Форма 5-з (квартальная) - Сведения о затратах на производство и продажу продукции (товаров, работ, услуг)</name>
+    <shortName>Форма 5-З</shortName>
+    <periodBegin>16.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400101" fileName="new_610013001012_1">
+    <name>Форма П1 - Сведения о производстве и отгрузке товаров и услуг</name>
+    <shortName>Форма П1</shortName>
+    <periodBegin>30.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402101" fileName="new_611012002012_1">
+    <name>Форма П-1 (сх) - Сведения о производстве и отгрузке сельскохозяйственной продукции</name>
+    <shortName>Форма П-1 (сх)</shortName>
+    <periodBegin>29.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400201" fileName="new_617004001004_1">
+    <name>Форма П-2 - Сведения об инвестициях в нефинансовые активы</name>
+    <shortName>Форма П-2</shortName>
+    <periodBegin>23.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400301" fileName="new_4_1_1">
+    <name>Форма П2 - Краткая</name>
+    <shortName>Форма П2. Краткая</shortName>
+    <periodBegin>01.01.2008</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1.01</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+  </format>
+<format gfv="400401" fileName="new_608003003012_1">
+    <name>Форма П-3 - Сведения о финансовом состоянии организации</name>
+    <shortName>Форма П-3</shortName>
+    <periodBegin>30.05.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400501" fileName="new_606010002012_1">
+    <name>Форма П-4 - Сведения о численности, заработной плате и движении работников</name>
+    <shortName>Форма П-4. Средняя численность более 15 человек</shortName>
+    <periodBegin>20.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>20.12.2012</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400601" fileName="new_606010004004_1">
+    <name>Форма П-4 - Сведения о численности, заработной плате и движении работников</name>
+    <shortName>Форма П-4. Средняя численность до 15 человек</shortName>
+    <periodBegin>20.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>20.12.2012</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401001" fileName="new_606028001012_1">
+    <name>Форма П4 (НЗ) - Сведения о неполной занятости и движении работников</name>
+    <shortName>Форма П4 (НЗ)</shortName>
+    <periodBegin>19.12.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400701" fileName="new_610016002004_1">
+    <name>Форма П5-м - Основные сведения о деятельности организации</name>
+    <shortName>Форма П5-м</shortName>
+    <periodBegin>16.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400901" fileName="new_608020001004_1.01">
+    <name>Форма П6 - Сведения о финансовых вложениях</name>
+    <shortName>Форма П6</shortName>
+    <periodBegin>01.01.2010</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1.01</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="401301" fileName="new_601013001004_1">
+    <name>Форма ПМ - Сведения об основных показателях деятельности малого предприятия</name>
+    <shortName>Форма ПМ</shortName>
+    <periodBegin>02.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401701" fileName="new_610010001012_1">
+    <name>Форма ПМ-пром - Сведения о производстве продукции малыми предпрятиями</name>
+    <shortName>Форма ПМ-пром</shortName>
+    <periodBegin>17.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401501" fileName="new_614008003012_1">
+    <name>Форма ПМ-торг - Сведения об обороте торговли малого предприятия</name>
+    <shortName>Форма ПМ-торг</shortName>
+    <periodBegin>25.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="401601" fileName="new_612008001012_1">
+    <name>Форма С-1 - Сведения о вводе в эксплуатацию зданий и сооружений</name>
+    <shortName>Форма С-1</shortName>
+    <periodBegin>06.07.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402701" fileName="new_610071002012_1">
+    <name>Форма 1-алкоголь (месячная) - Сведения о производстве и отгрузке этилового спирта, спиртосодержащей, алкогольной продукции и розливе алкогольной продукции</name>
+    <shortName>Форма 1-алкоголь</shortName>
+    <periodBegin>15.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402801" fileName="new_616010001004_1">
+    <name>Форма 1-РЖ - Средние цены и индексы цен на рынке жилья</name>
+    <shortName>Форма 1-РЖ</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402901" fileName="new_611006004004_1">
+    <name>Форма 3-фермер (квартальная, микро)</name>
+    <shortName>Форма 3-фермер (квартальная, микро)</shortName>
+    <periodBegin>23.12.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403001" fileName="new_611006005012_1">
+    <name>Форма 3-фермер (месячная, малые)</name>
+    <shortName>Форма 3-фермер (месячная, малые)</shortName>
+    <periodBegin>23.12.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403101" fileName="new_614046002004_1">
+    <name>Форма 3-рынок - Сведения о числе торговых мест на рынках</name>
+    <shortName>Форма 3-рынок</shortName>
+    <periodBegin>19.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403201" fileName="new_607002001004_1">
+    <name>Форма 1-конъюнктура (опт) - Обследование конъюнктуры и деловой активности в оптовой торговле</name>
+    <shortName>Форма 1-конъюнктура (опт)</shortName>
+    <periodBegin>01.01.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403301" fileName="new_616008001012_1">
+    <name>Форма 2-цены приобретения - Сведения о ценах на приобретенные организациями отдельные виды товаров</name>
+    <shortName>Форма 2-цены приобретения</shortName>
+    <periodBegin>01.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403401" fileName="new_616004001012_1">
+    <name>Форма 9-кс - Сведения о ценах на приобретенные основные строительные материалы, детали и конструкции (месячная)</name>
+    <shortName>Форма 9-кс (месячная)</shortName>
+    <periodBegin>01.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403501" fileName="new_608012003004_1">
+    <name>Форма 1-ск - Сведения о деятельности страховщика</name>
+    <shortName>Форма 1-ск</shortName>
+    <periodBegin>02.07.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403601" fileName="new_607006001004_1">
+    <name>Форма 1-торги - Сведения о проведении торгов и о других способах размещения заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд</name>
+    <shortName>Форма 1-торги</shortName>
+    <periodBegin>24.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403701" fileName="new_609703001001_1">
+    <name>Форма 1-услуги - Сведения об объеме платных услуг населению</name>
+    <shortName>Форма 1-услуги</shortName>
+    <periodBegin>10.11.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403801" fileName="new_602001002001_1">
+    <name>Форма №11 - Сведения о наличии и движении основных фондов (средств) и других нефинансовых активов</name>
+    <shortName>Форма №11</shortName>
+    <periodBegin>10.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="403901" fileName="new_710005003000_1">
+    <name>Форма 5 - приложение к бухгалтерскому балансу и отчету о прибылях и убытках</name>
+    <shortName>Форма 5</shortName>
+    <periodBegin>02.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404001" fileName="new_602002002001_1">
+    <name>Форма №11 (краткая) - Сведения о наличии и движении основных фондов (средств) некоммерческих организаций</name>
+    <shortName>Форма №11 (краткая)</shortName>
+    <periodBegin>27.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404101" fileName="new_608011001000_1">
+    <name>Форма №12-Ф - Сведения об использовании денежных средств</name>
+    <shortName>Форма №12-Ф</shortName>
+    <periodBegin>01.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="402601" fileName="new_601009001001_1">
+    <name>Форма 1-предприятие - Основные сведения о деятельности организации</name>
+    <shortName>Форма 1-предприятие</shortName>
+    <periodBegin>16.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404201" fileName="new_604018001001_1">
+    <name>Форма 3-информ - Сведения об использовании информационных и коммуникационных технологий и производстве вычислительной техники, программного обеспечения и оказания услуг в этих сферах</name>
+    <shortName>Форма 3-информ</shortName>
+    <periodBegin>07.03.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404301" fileName="new_617010001001_1">
+    <name>Форма П-2 (инвест) - Сведения об инвестиционной деятельности (Годовая)</name>
+    <shortName>Форма П-2 (инвест)</shortName>
+    <periodBegin>22.03.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404401" fileName="new_608025002004_1">
+    <name>Форма 1-РП(срочная) - Сведения о состоянии расчетов за отгруженную продукцию, выполненные работы (услуги) (срочная)</name>
+    <shortName>Форма 1-РП(срочная)</shortName>
+    <periodBegin>12.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404601" fileName="new_610066002004_1">
+    <name>Форма 6-нефть - Сведения о себестоимости добычи нефти, производства нефтепродуктов</name>
+    <shortName>Форма 6-нефть</shortName>
+    <periodBegin>31.05.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404501" fileName="new_615056006004_1">
+    <name>Форма 65-автотранс - Сведения о продукции автомобильного транспорта (нарастающим итогом)</name>
+    <shortName>Форма 65-автотранс</shortName>
+    <periodBegin>13.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404701" fileName="new_1608303001001_1">
+    <name>Форма 1-АНО - Основные сведения о деятельности некоммерческой организации</name>
+    <shortName>Форма 1-АНО</shortName>
+    <periodBegin>04.09.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404801" fileName="new_606027001004_1">
+    <name>Форма 1-Т(ГМС) государственная служба</name>
+    <shortName>Форма 1-Т(ГМС) государственная служба</shortName>
+    <periodBegin>14.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="404901" fileName="new_606027002004_1">
+    <name>Форма 1-Т(ГМС) муниципальная служба</name>
+    <shortName>Форма 1-Т(ГМС) муниципальная служба</shortName>
+    <periodBegin>14.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405001" fileName="new_606013001012_1">
+    <name>Форма 3-Ф - Сведения о просроченной задолженности по заработной плате</name>
+    <shortName>Форма 3-Ф</shortName>
+    <periodBegin>17.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405101" fileName="new_609255001004_1">
+    <name>Форма 26-ЖКХ - Сведения о предоставлении гражданам социальной поддержки по оплате жилого помещения и коммунальных услуг</name>
+    <shortName>Форма 26-ЖКХ</shortName>
+    <periodBegin>03.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405201" fileName="new_611010001001_1">
+    <name>Форма 29-сх (категории 13, 58-60) - Сведения о сборе урожая сельскохозяйственных культур</name>
+    <shortName>Форма 29-сх (категории 13, 58-60)</shortName>
+    <periodBegin>01.10.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405401" fileName="new_610012002004_1">
+    <name>Форма 1-НАНО - Сведения об отгрузке товаров, работ и услуг, связанных с нанотехнологиями</name>
+    <shortName>Форма 1-НАНО</shortName>
+    <periodBegin>04.04.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405501" fileName="new_606029001001_1">
+    <name>Форма 1-Т(проф) - Сведения о численности и потребности организаций в работниках по профессиональным группам</name>
+    <shortName>Форма 1-Т(проф)</shortName>
+    <periodBegin>12.11.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405301" fileName="new_615055001012_1">
+    <name>Форма 1-автотранс (срочная) - Сведения о работе пассажирского автомобильного транспорта</name>
+    <shortName>Форма 1-автотранс (срочная)</shortName>
+    <periodBegin>07.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405601" fileName="new_604016001001_1">
+    <name>Форма 1-Технология - Сведения о создании и использовании передовых производственных технологий</name>
+    <shortName>Форма 1-Технология</shortName>
+    <periodBegin>09.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405701" fileName="new_611021001001_1">
+    <name>Форма 21-СХ - Сведения о реализации сельскохозяйственной продукции</name>
+    <shortName>Форма 21-СХ</shortName>
+    <periodBegin>06.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405801" fileName="new_611009001001_1">
+    <name>Форма 24-СХ - Сведения о состоянии животноводства</name>
+    <shortName>Форма 24-СХ</shortName>
+    <periodBegin>26.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="405901" fileName="new_612007001001_1">
+    <name>Форма 12-строительство - Сведения о наличии основных строительных машин</name>
+    <shortName>Форма 12-строительство</shortName>
+    <periodBegin>12.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406001" fileName="new_604030002001_1">
+    <name>Форма 1-НК - Сведения о работе аспирантуры и докторантуры</name>
+    <shortName>Форма 1-НК</shortName>
+    <periodBegin>14.11.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406101" fileName="new_609506001001_1">
+    <name>Форма 85-к - Сведения о деятельности дошкольного учереждения</name>
+    <shortName>Форма 85-к</shortName>
+    <periodBegin>12.11.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406201" fileName="new_608025002001_1">
+    <name>Форма 1-РП(срочная, годовая) - Сведения о состоянии расчетов за отгруженную продукцию, выполненные работы (услуги) (годовая)</name>
+    <shortName>Форма 1-РП(срочная, годовая)</shortName>
+    <periodBegin>12.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400502" fileName="new_606010002012_2">
+    <name>Форма П-4 - Сведения о численности, заработной плате и движении работников</name>
+    <shortName>Форма П-4. Средняя численность более 15 человек</shortName>
+    <periodBegin>29.09.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>29.09.2012</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="400602" fileName="new_606010004004_2">
+    <name>Форма П-4 - Сведения о численности, заработной плате и движении работников</name>
+    <shortName>Форма П-4. Средняя численность до 15 человек</shortName>
+    <periodBegin>22.06.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>22.06.2012</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406301" fileName="new_610068001001_1">
+    <name>Форма 4-ТЭР - Сведения об остатках, поступлении и расходе топливно-энергетических ресурсов, сборе и использовании отработанных нефтепродуктов</name>
+    <shortName>Форма 4-ТЭР</shortName>
+    <periodBegin>11.01.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406401" fileName="new_615071004001_1">
+    <name>Форма 1-ТР(автотранспорт) - Сведения об автотранспорте и о протяженности автодорог необщего пользования</name>
+    <shortName>Форма 1-ТР(автотранспорт)</shortName>
+    <periodBegin>18.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+  </format>
+<format gfv="406801" fileName="new_610069002001_1">
+    <name>Форма 11-ТЭР - Сведения об использовании топлива, теплоэнергии и электроэнергии на производство отдельных видов продукции, работ (услуг)</name>
+    <shortName>Форма 11-ТЭР</shortName>
+    <periodBegin>15.06.2011</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406501" fileName="new_609304002001_1">
+    <name>Форма 7-травматизм - Сведения о травматизме на производстве и профессиональных заболеваниях</name>
+    <shortName>Форма 7-травматизм</shortName>
+    <periodBegin>14.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406601" fileName="new_601016001001_1">
+    <name>Форма МП(микро) - Сведения об основных показателях деятельности микропредприятия</name>
+    <shortName>Форма МП(микро)</shortName>
+    <periodBegin>11.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406701" fileName="new_601020002001_1">
+    <name>Форма МП(микро)-сх - Сведения об основных показателях деятельности микропредприятия, осуществляющего сельскохозяйственную деятельность</name>
+    <shortName>Форма МП(микро)-сх</shortName>
+    <periodBegin>11.12.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="406901" fileName="new_610035002001_1">
+    <name>Форма 1-натура-БМ - Сведения о производстве,отгрузке продукции</name>
+    <shortName>Форма 1-натура-БМ</shortName>
+    <periodBegin>30.01.2013</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+<format gfv="407001" fileName="new_615068003001_1">
+    <name>Форма 3-ДГ(мо) - Сведения об автомобильных дорогах общего и необщего пользования местного значения и искусственных сооружениях на них, находящихся в собственности муниципальных образований</name>
+    <shortName>Форма 3-ДГ(мо)</shortName>
+    <periodBegin>09.02.2012</periodBegin>
+    <periodEnd/>
+    <type>4</type>
+    <knd/>
+    <version>1</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+    <disabledInRegions>11,13</disabledInRegions>
+  </format>
+</formats>

@@ -1,6 +1,20 @@
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+<x:stylesheet version="1.0" xmlns:x="http://www.w3.org/1999/XSL/Transform">
+    <x:output method="xml" indent="yes"/>
 
-    <xsl:template match="/">
-    </xsl:template>
+    <x:param name="type">0</x:param>
 
-</xsl:stylesheet>
+    <x:template match="formats">
+        <x:copy>
+            <x:apply-templates select="format"/>
+        </x:copy>
+    </x:template>
+
+
+
+    <x:template match="formats/format">
+        <x:if test="type = $type">
+                <x:copy-of select="."/>
+        </x:if>
+    </x:template>
+
+</x:stylesheet>
