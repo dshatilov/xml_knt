@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="format-properties" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:attribute name="КНД" type="xs:string"/>
+  <xs:attribute name="ВерФОтч" type="xs:string"/>
+  <xs:attribute name="ТипИнф" type="xs:string"/>
+  <xs:attribute name="ВерсФорм" type="xs:string"/>
+  <xs:attribute name="code" type="xs:string"/>
+  <xs:attribute name="shifr" type="xs:string"/>
+  <xs:attribute name="version" type="xs:string"/>
+  <xs:attribute name="XmlRootElement" type="xs:string"/>
+  <xs:attribute name="КФО" type="xs:string"/>
+  <xs:attribute name="НомФорм" type="xs:string"/>
+  <xs:attribute name="НаимФОтч" type="xs:string"/>
+  <xs:attribute name="ТипДокумента" type="xs:string"/>
+  <xs:attribute name="РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" type="xs:string"/>
+  <xs:attribute name="РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_СВ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ_НАЧИНАЯ_С_2012_ГОДА" type="xs:string"/>
+  <xs:attribute name="РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_НЕ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" type="xs:string"/>
+  <xs:attribute name="ВидФормы" type="xs:string"/>
+  <xs:attribute name="РАСЧЕТ_ПО_ВЗНОСАМ_ПО_ДОПОЛНИТЕЛЬНОМУ_ТАРИФУ_ЛЭВС" type="xs:string"/>
+  <xs:attribute name="РАСЧЕТ_ПО_ВЗНОСАМ_НА_ДОПОЛНИТЕЛЬНОЕ_СОЦИАЛЬНОЕ_ОБЕСПЕЧЕНИЕ" type="xs:string"/>
+  <xs:attribute name="filename" type="xs:string"/>
+</xs:schema>
