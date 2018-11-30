@@ -17,7 +17,7 @@
             <x:copy-of select="."/>
         </x:if>
         <x:if test="version &gt;= $version and version &lt; math:power(10, -string-length(substring-after($version, '.')))+$version and $mode = 1">
-            <x:copy-of select="version"/>
+            <x:copy-of select="."/>
         </x:if>
     </x:template>
 

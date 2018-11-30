@@ -1,4 +1,218 @@
 <?xml version="1.0" encoding="UTF-8"?><formats>
-<version>4.20</version>
-<version>4.20</version>
+<format gfv="102601" fileName="form_socialOP">
+    <name>Расчет по авансовым платежам по ЕСН</name>
+    <shortName>Авансовые платежи по ЕСН</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>30.09.2003</periodEnd>
+    <type>1</type>
+    <knd>1151050</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="102901" fileName="form_StrahAV">
+    <name>Расчет по авансовым платежам по страховым взносам на обязательное пенсионное страхование для лиц, производящих выплаты физическим лицам: организаций; индивидуальных предпринимателей; физических лиц, не признаваемых индивидуальными предпринимателями</name>
+    <shortName>Авансовые платежи по страх.взносам в ПФ</shortName>
+    <periodBegin>01.04.2003</periodBegin>
+    <periodEnd>30.09.2003</periodEnd>
+    <type>1</type>
+    <knd>1151058</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="200101" fileName="form_credit101">
+    <name>Оборотная ведомость по счетам бухгалтерского учета кредитной организации (форма N101)</name>
+    <shortName>Ведомость по счетам бухучета кред. орг.(ф.101)</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd/>
+    <type>2</type>
+    <knd>0409101</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>true</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+  </format>
+<format gfv="102501" fileName="form_ESNnew">
+    <name>Декларация по ЕСН</name>
+    <shortName>Декларация по ЕСН</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1151046</knd>
+    <version>2.01002</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="103401" fileName="form_strahAVyear">
+    <name>Декларация по взносам в ПФ</name>
+    <shortName>Декларация по страх.взносам в ПФ</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1151065</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="104801" fileName="form_unionV">
+    <name>Единый налог на вмененный доход</name>
+    <shortName>Единый налог на вмененный доход</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1152016</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="104901" fileName="form_simple">
+    <name>Единый налог по упрощенной системе налогообложения</name>
+    <shortName>Единый налог по упрощенной системе</shortName>
+    <periodBegin>01.10.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1152017</knd>
+    <version>2.01002</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="103201" fileName="form_ESNSimple">
+    <name>Налоговая декларация по единому социальному налогу для индивидуальных предпринимателей, глав крестьянских хозяйст, адвокатов(2003 год)</name>
+    <shortName>ЕСН для ИП, фермеров и адвокатов</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2006</periodEnd>
+    <type>1</type>
+    <knd>1151063</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>true</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="102101" fileName="form_contamination_quarter">
+    <name>Расчет 10-процентных отчислений от платы за фактическое загрязнение окружающей природной среды за квартал</name>
+    <shortName>Загрязнение за квартал</shortName>
+    <periodBegin>01.04.2003</periodBegin>
+    <periodEnd>31.12.2005</periodEnd>
+    <type>1</type>
+    <knd>1151035</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="102001" fileName="form_contamination_year">
+    <name>Расчет 10-процентных отчислений от платы за загрязнение окружающей природной среды на год, направляемых в федеральный бюджет Российской Федерации</name>
+    <shortName>Загрязнение на год</shortName>
+    <periodBegin>01.04.2003</periodBegin>
+    <periodEnd>31.12.2005</periodEnd>
+    <type>1</type>
+    <knd>1151034</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="100901" fileName="fed_71_1111033_2.00">
+    <name>Заявка на федеральные специальные марки для маркировки алкогольной продукции</name>
+    <shortName>Заявка на федеральные спецмарки</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd/>
+    <type>1</type>
+    <knd>1111033</knd>
+    <version>2.01</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="104401" fileName="form_property">
+    <name>Расчет по налогу на имущество предприятий</name>
+    <shortName>Налог на имущество организаций</shortName>
+    <periodBegin>01.04.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1152001</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="103501" fileName="form_securFloat">
+    <name>Декларация по налогу на операции с ценными бумагами</name>
+    <shortName>Налог на операции с ценными бумагами</shortName>
+    <periodBegin>21.09.2003</periodBegin>
+    <periodEnd>04.01.2004</periodEnd>
+    <type>1</type>
+    <knd>1151066</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="200201" fileName="form_credit102">
+    <name>Отчет о прибылях и убытках кредитной организации (форма №102)</name>
+    <shortName>Отчет о прибылях и убытках кредит.орг. (ф.102)</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd/>
+    <type>2</type>
+    <knd>0409102</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>true</isCheckedByDom>
+    <orgTypes>1011</orgTypes>
+  </format>
+<format gfv="200901" fileName="form_ispol_smet">
+    <name>Отчёт об исполнении сметы доходов и расходов по внебюджетным источникам</name>
+    <shortName>Отчёт об исполнении сметы по внебюдж. источникам</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd/>
+    <type>2</type>
+    <knd>0503055</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="103301" fileName="form_ESNpred">
+    <name>Предполагаемый доход</name>
+    <shortName>Предполагаемый доход</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2004</periodEnd>
+    <type>1</type>
+    <knd>1151064</knd>
+    <version>2.01001</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="105001" fileName="form_foresttax">
+    <name>Расчет лесных податей при отпуске древесины с учетом по площади и по числу деревьев, назначенных в рубку</name>
+    <shortName>Расчет лесных податей</shortName>
+    <periodBegin>01.04.2003</periodBegin>
+    <periodEnd>31.12.2004</periodEnd>
+    <type>1</type>
+    <knd>1152019</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
+<format gfv="104601" fileName="form_transport">
+    <name>Налоговая декларация по транспортному налогу</name>
+    <shortName>Транспортный налог</shortName>
+    <periodBegin>01.01.2003</periodBegin>
+    <periodEnd>31.12.2003</periodEnd>
+    <type>1</type>
+    <knd>1152004</knd>
+    <version>2.01000</version>
+    <isStoredInDataTree>false</isStoredInDataTree>
+    <isCheckedByDom>false</isCheckedByDom>
+    <orgTypes>1111</orgTypes>
+  </format>
 </formats>

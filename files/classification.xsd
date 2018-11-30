@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:for="format-properties">
   <xs:import namespace="format-properties" schemaLocation="fp.xsd"/>
   <xs:element name="classification" type="classificationType"/>
   <xs:complexType name="variantType">
     <xs:simpleContent>
       <xs:extension base="xs:string">
         <xs:attribute type="xs:string" name="id" use="required"/>
-        <xs:attribute ref="for:ВерФОтч" xmlns:for="format-properties"/>
+        <xs:attribute ref="for:ВерФОтч"/>
         <xs:attribute type="xs:string" name="contentType" use="optional"/>
-        <xs:attribute ref="for:ТипИнф" xmlns:for="format-properties"/>
-        <xs:attribute ref="for:ВерсФорм" xmlns:for="format-properties"/>
+        <xs:attribute ref="for:ТипИнф"/>
+        <xs:attribute ref="for:ВерсФорм"/>
         <xs:attribute type="xs:string" name="ТипИнф" use="optional"/>
         <xs:attribute type="xs:string" name="periods" use="optional"/>
         <xs:attribute type="xs:string" name="period-modifiers" use="optional"/>
         <xs:attribute type="xs:string" name="ВерсФорм" use="optional"/>
-        <xs:attribute ref="for:КНД" xmlns:for="format-properties"/>
+        <xs:attribute ref="for:КНД" />
         <xs:attribute type="xs:string" name="form-modifiers" use="optional"/>
         <xs:attribute type="xs:string" name="shortName" use="optional"/>
         <xs:attribute type="xs:string" name="name" use="optional"/>
         <xs:attribute type="xs:string" name="restriction-quarte" use="optional"/>
         <xs:attribute type="xs:string" name="valid" use="optional"/>
-        <xs:attribute ref="for:version" xmlns:for="format-properties"/>
-        <xs:attribute ref="for:XmlRootElement" xmlns:for="format-properties"/>
-        <xs:attribute ref="for:РАСЧЕТ_ПО_ВЗНОСАМ_ПО_ДОПОЛНИТЕЛЬНОМУ_ТАРИФУ_ЛЭВС" xmlns:for="format-properties"/>
-        <xs:attribute ref="for:РАСЧЕТ_ПО_ВЗНОСАМ_НА_ДОПОЛНИТЕЛЬНОЕ_СОЦИАЛЬНОЕ_ОБЕСПЕЧЕНИЕ" xmlns:for="format-properties"/>
+        <xs:attribute ref="for:version" />
+        <xs:attribute ref="for:XmlRootElement" />
+        <xs:attribute ref="for:РАСЧЕТ_ПО_ВЗНОСАМ_ПО_ДОПОЛНИТЕЛЬНОМУ_ТАРИФУ_ЛЭВС" />
+        <xs:attribute ref="for:РАСЧЕТ_ПО_ВЗНОСАМ_НА_ДОПОЛНИТЕЛЬНОЕ_СОЦИАЛЬНОЕ_ОБЕСПЕЧЕНИЕ" />
       </xs:extension>
     </xs:simpleContent>
   </xs:complexType>
@@ -32,7 +32,7 @@
       <xs:element type="variantType" name="variant" maxOccurs="unbounded" minOccurs="0"/>
     </xs:sequence>
     <xs:attribute type="xs:string" name="id" use="required"/>
-    <xs:attribute ref="for:КНД" xmlns:for="format-properties"/>
+    <xs:attribute ref="for:КНД" />
     <xs:attribute type="xs:string" name="shortName" use="optional"/>
     <xs:attribute type="xs:string" name="name" use="optional"/>
     <xs:attribute type="xs:string" name="periods" use="optional"/>
@@ -40,20 +40,20 @@
     <xs:attribute type="xs:string" name="synonyms" use="optional"/>
     <xs:attribute type="xs:string" name="period-modifiers" use="optional"/>
     <xs:attribute type="xs:string" name="restriction-quarter" use="optional"/>
-    <xs:attribute ref="for:ТипИнф" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:code" xmlns:for="format-properties"/>
+    <xs:attribute ref="for:ТипИнф" />
+    <xs:attribute ref="for:code" />
     <xs:attribute type="xs:string" name="ОКУД" use="optional"/>
-    <xs:attribute ref="for:shifr" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:КФО" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:НомФорм" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:НаимФОтч" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:ТипДокумента" xmlns:for="format-properties"/>
+    <xs:attribute ref="for:shifr" />
+    <xs:attribute ref="for:КФО" />
+    <xs:attribute ref="for:НомФорм" />
+    <xs:attribute ref="for:НаимФОтч" />
+    <xs:attribute ref="for:ТипДокумента" />
     <xs:attribute type="xs:string" name="alias" use="optional"/>
-    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_СВ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ_НАЧИНАЯ_С_2012_ГОДА" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_НЕ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:ВидФормы" xmlns:for="format-properties"/>
-    <xs:attribute ref="for:filename" xmlns:for="format-properties"/>
+    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" />
+    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_СВ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ_НАЧИНАЯ_С_2012_ГОДА" />
+    <xs:attribute ref="for:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_НЕ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ" />
+    <xs:attribute ref="for:ВидФормы" />
+    <xs:attribute ref="for:filename" />
     <xs:attribute type="xs:string" name="code" use="optional"/>
   </xs:complexType>
   <xs:complexType name="groupType">

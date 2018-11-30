@@ -1,0 +1,1487 @@
+<?xml version="1.0" encoding="UTF-8"?><classification xmlns:fp="format-properties" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="classification.xsd">
+<group id="1" name="Налоговая отчетность">
+<format id="1" fp:КНД="1110005" shortName="Сбор за пользование объектами водных биологических ресурсов" name="Сведения о полученной лицензии на пользование объектами водных биологических ресурсов, суммах сбора за пользование объектами водных биологических ресурсов, подлежащих уплате в виде разового и регулярных взносов" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100101"/>
+</format>
+<format id="2" fp:КНД="1110006" shortName="Сбор за пользование объектами животного мира" name="Сведения о полученной лицензии (разрешении) на пользование объектами животного мира, суммах сбора за пользование объектами животного мира, подлежащих уплате, и суммах фактического сбора" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100201"/>
+</format>
+<format id="3" fp:КНД="1110011" shortName="Сбор за пользование объектами водных биологических ресурсов" name="Сведения о полученных лицензиях (разрешениях) на пользование объектами водных биологических ресурсов, суммах сбора за пользование объектами водных биологических ресурсов, подлежащих уплате в виде разового и регулярных взносов" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100301"/>
+</format>
+<format id="4" fp:КНД="1110012" shortName="Сбор за пользование объектами животного мира" name="Сведения о полученных лицензиях (разрешениях) на пользование объектами животного мира, суммах сбора за пользование объектами животного мира, подлежащих уплате, и суммах фактически уплаченного сбора" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100401"/>
+</format>
+<format id="5" fp:КНД="1110018" shortName="Сведения о среднесписочной численности" name="Сведения о среднесписочной численности работниковза предшествующий календарный год" periods="1" synonyms="ССЧ">
+<variant id="1" fp:ВерсФорм="4.01" contentType="Xml" fp:ТипИнф="СВЕДСРСПИСЧИСЛ" gfv="100501"/>
+</format>
+<format id="6" fp:КНД="1111004" shortName="Сообщение об открытии/закрытии счета индивидуальным предпринимателем" name="Сообщение об открытии/закрытии счета индивидуальным предпринимателем">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100601"/>
+</format>
+<format id="7" fp:КНД="1111007" shortName="Сообщение об открытии/закрытии счета юридическим лицом" name="Сообщение об открытии/закрытии счета юридическим лицом">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100701"/>
+</format>
+<format id="8" fp:КНД="1111030" shortName="Отчет об использовании федеральных спецмарок" name="Отчет об использовании федеральных специальных марок">
+<variant id="1" fp:ВерФОтч="2.00" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100801"/>
+</format>
+<format id="9" fp:КНД="1111033" shortName="Заявка на федеральные спецмарки" name="Заявка на федеральные специальные марки для маркировки алкогольной продукции">
+<variant id="1" fp:ВерФОтч="2.01" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="100901"/>
+</format>
+<format id="10" fp:КНД="1151001" shortName="НДС" name="Налоговая декларация по налогу на добавленную стоимость" periods="110" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101001"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101002"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101003"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101004"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101005"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101006"/>
+<variant id="7" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101007"/>
+<variant id="8" fp:ВерФОтч="3.00006" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101008"/>
+<variant id="9" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" periods="10" period-modifiers="10" gfv="101009"/>
+<variant id="10" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" periods="10" period-modifiers="1010" gfv="101010"/>
+</format>
+<format id="11" fp:КНД="1151002" shortName="НДС по ставке 0%" name="Налоговая декларация по налогу на добавленную стоимость по налоговой ставке 0%" periods="110" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101101"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101102"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101103"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101104"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101105"/>
+</format>
+<format id="12" fp:КНД="1151003" shortName="Акцизы на подакцизные товары" name="Налоговая декларация по акцизам на подакцизные товары, за исключением нефтепродуктов и табачных изделий" periods="100" form-modifiers="1" synonyms="акциз">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101201"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101202"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101203"/>
+<variant id="4" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101204"/>
+<variant id="5" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101205"/>
+<variant id="6" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101206"/>
+</format>
+<format id="13" fp:КНД="1151005" shortName="Акцизы на алкогольную продукцию" name="Налоговая декларация по акцизам на алкогольную продукцию, реализуемую с акцизных складов оптовых организаций" periods="100" form-modifiers="1" synonyms="акциз">
+<variant id="1" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101301"/>
+<variant id="2" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101302"/>
+<variant id="3" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101303"/>
+<variant id="4" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101304"/>
+<variant id="5" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101305"/>
+<variant id="6" fp:ВерФОтч="3.00006" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101306"/>
+</format>
+<format id="14" fp:КНД="1151006" shortName="Налог на прибыль" name="Налоговая декларация по налогу на прибыль организаций" periods="110" period-modifiers="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101401"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101402"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101403"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101404"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101405"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101406"/>
+<variant id="7" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101407"/>
+<variant id="8" fp:ВерФОтч="3.00006" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101408"/>
+<variant id="9" fp:ВерФОтч="3.00007" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101409"/>
+<variant id="10" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100001" gfv="101410"/>
+<variant id="11" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100001" gfv="101411"/>
+<variant id="12" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100001" gfv="101412"/>
+<variant id="13" fp:ВерсФорм="5.04" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100101" gfv="101413"/>
+</format>
+<format id="15" fp:КНД="1151020" name="Налоговая декларация по налогу на доходы физических лиц (форма 3-НДФЛ)" shortName="3-НДФЛ" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101501"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101502"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101503"/>
+<variant id="4" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101504"/>
+<variant id="5" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101505"/>
+<variant id="6" ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101506"/>
+<variant id="7" fp:ВерсФорм="5.04" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101507"/>
+<variant id="8" fp:ВерсФорм="5.05" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101508"/>
+<variant id="9" fp:ВерсФорм="5.06" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101509"/>
+<variant id="10" fp:ВерсФорм="5.07" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101510"/>
+</format>
+<format id="16" fp:КНД="1151021" name="Налоговая декларация о предполагаемомо доходе физического лица (форма 4-НДФЛ)" shortName="4-НДФЛ" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101601"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="101602"/>
+</format>
+<format id="17" fp:КНД="1151024" shortName="Доходы организации за пределами РФ" name="Налоговая декларация о доходах, полученных российской организацией от источников за пределами РФ" periods="110" period-modifiers="1" form-modifiers="1" synonyms="доход">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101701"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101702"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101703"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101704"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101705"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101706"/>
+</format>
+<format id="18" fp:КНД="1151026" shortName="Платеж за пользование недрами" name="Расчет регулярных платежей за пользование недрами" periods="10" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101801"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101802"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101803"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101804"/>
+</format>
+<format id="19" fp:КНД="1151032" shortName="Плата за пользование водными объектами" name="Налоговая декларация по плате за пользование водными объектами" periods="110" form-modifiers="1" synonyms="водн">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101901"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101902"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="101903"/>
+</format>
+<format id="20" fp:КНД="1151034" shortName="Загрязнение за год" name="Расчет 10-процентных отчислений от платы за загрязнение окружающей природной среды на год, направляемых в федеральный бюджет Российской Федерации">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102001"/>
+</format>
+<format id="21" fp:КНД="1151035" shortName="Загрязнение за квартал" name="Расчет 10-процентных отчислений от платы за фактическое загрязнение окружающей природной среды за квартал">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102101"/>
+</format>
+<format id="22" fp:КНД="1151038" shortName="Налог на прибыль иностр.организаций" name="Налоговая декларация по налогу на прибыль иностранной организации" periods="110" period-modifiers="1" form-modifiers="1" synonyms="иностранн">
+<variant id="1" fp:ВерФОтч="2.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102201"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102202"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102203"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102204"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102205"/>
+</format>
+<format id="23" fp:КНД="1151039" shortName="Акцизы на нефтепродукты" name="Налоговая декларация по акцизам на нефтепродукты" periods="100" form-modifiers="1" synonyms="акциз|нефт">
+<variant id="1" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102301"/>
+<variant id="2" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102302"/>
+<variant id="3" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102303"/>
+<variant id="4" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102304"/>
+<variant id="5" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102305"/>
+<variant id="6" fp:КНД="1151089" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="102306"/>
+</format>
+<format id="24" fp:КНД="1151040" shortName="Акцизы на минеральное сырье" name="Налоговая декларация по акцизу на подакцизное минеральное сырье (природный газ)" periods="100" form-modifiers="1" synonyms="акциз">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102401"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102402"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102403"/>
+<variant id="4" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102404"/>
+</format>
+<format id="25" fp:КНД="1151046" shortName="Декларация по ЕСН" name="Налоговая декларация по единому социальному налогу для налогоплательщиков, производящих выплаты физическим лицам" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102501"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102502"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102503"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102504"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102505"/>
+</format>
+<format id="26" fp:КНД="1151050" shortName="Авансовые платежи по ЕСН" name="Расчет авансовых платежей по единому социальному налогу для налогоплательщиков, производящих выплаты физическим лицам" periods="10" period-modifiers="1" restriction-quarter="1-3" form-modifiers="1" synonyms="аванс">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102601"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102602"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102603"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102604"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102605"/>
+</format>
+<format id="27" fp:КНД="1151054" shortName="Налог на добычу полезных ископаемых" name="Налоговая декларация по налогу на добычу полезных ископаемых" periods="100" form-modifiers="1" synonyms="НДПИ">
+<variant id="1" fp:ВерФОтч="2.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102701"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102702"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102703"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102704"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102705"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102706"/>
+<variant id="7" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="102707"/>
+<variant id="8" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="102708"/>
+</format>
+<format id="28" fp:КНД="1151056" shortName="Суммы, выплаченные иностранным организациям" name="Налоговый расчет (информация) о суммах, выплаченных иностранным организациям доходов и удержанных налогов" periods="110" period-modifiers="1" form-modifiers="1" synonyms="иностранн">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102801"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102802"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102803"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102804"/>
+<variant id="5" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102805"/>
+<variant id="6" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102806"/>
+<variant id="7" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102807"/>
+</format>
+<format id="29" fp:КНД="1151058" shortName="Авансовые платежи по страх.взносам в ПФ" name="Расчет авансовых платежей по страховым взносам на обязательное пенсионное страхование для лиц, производящих выплаты физическим лицам" periods="10" period-modifiers="1" restriction-quarter="1-3" form-modifiers="1" synonyms="аванс|ОПС">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102901"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102902"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102903"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="102904"/>
+</format>
+<format id="30" fp:КНД="1151059" shortName="Единый с/х налог" name="Налоговая декларация по единому сельскохозяйственному налогу" periods="1" form-modifiers="1" synonyms="сельхоз|СХ">
+<variant id="1" fp:ВерФОтч="2.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103001"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103002"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103003"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103004"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103005"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103006"/>
+<variant id="7" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100000" gfv="103007"/>
+</format>
+<format id="31" fp:КНД="1151061" shortName="ЕСН, уплаченный за адвоката" name="Справка о суммах единого социального налога, уплаченных за истекший налоговый период коллегией адвокатов, адвокатским бюро или юридической консультацией за адвоката" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103101"/>
+<variant id="2" ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="103102"/>
+</format>
+<format id="32" fp:КНД="1151063" shortName="ЕСН для ИП, фермеров и адвокатов" name="Налоговая декларация по единому социальному налогу для индивидуальных предпринимателей, адвокатов, нотариусов, занимающихся частной практикой" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103201"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103202"/>
+</format>
+<format id="33" fp:КНД="1151064" shortName="Предполагаемый доход, подлежащий облоению ЕСН" name="Предполагаемый доход, подлежащий обложению единым социальным налогом, для налогоплательщиков, не производящих выплаты и вознаграждения в пользу физических лиц" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103301"/>
+</format>
+<format id="34" fp:КНД="1151065" shortName="Декларация по страх.взносам в ПФ" name="Декларация по страховым взносам на обязательное пенсионное страхование для лиц, производящих выплаты физическим лицам" periods="1" form-modifiers="1" synonyms="ОПС">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103401"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103402"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103403"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103404"/>
+</format>
+<format id="35" fp:КНД="1151066" shortName="Налог на операции с ценными бумагами" name="Расчет (декларация) по налогу на операции с ценными бумагами" periods="100" form-modifiers="1" synonyms="ценны">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103501"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103502"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103503"/>
+</format>
+<format id="36" fp:КНД="1151072" shortName="Водный налог" name="Налоговая декларация по водному налогу" periods="10" form-modifiers="1" synonyms="водн">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103601"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103602"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103603"/>
+</format>
+<format id="37" fp:КНД="1151073" shortName="Предполагаемый доход, подлежащий облоению ЕСН" name="Предполагаемый доход, подлежащий обложению единым социальным налогом, для налогоплательщиков, не производящих выплаты и вознаграждения в пользу физических лиц" periods="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103701"/>
+</format>
+<format id="38" fp:КНД="1151074" shortName="Акцизы на табачные изделия" name="Налоговая декларация по акцизам на табачные изделия" periods="100" form-modifiers="1" synonyms="табак|акциз">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103801"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103802"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103803"/>
+<variant id="4" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103804"/>
+<variant id="5" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103805"/>
+<variant id="6" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="103806"/>
+</format>
+<format id="39" fp:КНД="1151075" shortName="Косвенные налоги" name="Налоговая декларация по косвенным налогам (налогу на добавленную стоимость и акцизам) при ввозе товаров на территорию Российской Федерации с территории республики Беларусь" periods="100" form-modifiers="1" synonyms="косвен">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103901"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103902"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="103903"/>
+</format>
+<format id="40" fp:КНД="1151081" shortName="Исчисленные суммы ЕСН с доходов адвокатов" name="Данные об исчисленных суммах единого социального налога с доходов адвокатов" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104001"/>
+</format>
+<format id="41" fp:КНД="1151082" shortName="Налог на прибыль при выполнении СРП" name="Налоговая декларация по налогу на прибыль организаций при выполнении соглашений о разделе продукции" periods="10" period-modifiers="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104101"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104102"/>
+</format>
+<format id="42" fp:КНД="1151084" shortName="Акцизы на подакцизные товары" name="Налоговая декларация по акцизам на подакцизные товары, за исключением табачных изделий" periods="100" form-modifiers="1" synonyms="акциз">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104201"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="104202"/>
+</format>
+<format id="43" fp:КНД="1151085" shortName="Единая (упрощенная) налоговая декларация" name="Единая (упрощенная) налоговая декларация" periods="1" form-modifiers="1" synonyms="ЕДУПР">
+<variant id="1" fp:ВерсФорм="4.01" contentType="Xml" fp:ТипИнф="ЕДУПР" gfv="104301"/>
+</format>
+<format id="44" fp:КНД="1152001" shortName="Налог на имущество организаций" name="Налоговая декларация по налогу на имущество организаций (налогового расчета по авансовому платежу)" periods="110" period-modifiers="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104401"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104402"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104403"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104404"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104405"/>
+</format>
+<format id="45" fp:КНД="1152003" name="Налог на имущество иностранной организации" synonyms="иностранн">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104501"/>
+</format>
+<format id="46" fp:КНД="1152004" shortName="Декларация по транспортному налогу" name="Налоговая декларация по транспортному налогу" periods="1" form-modifiers="1" synonyms="транспорт">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104601"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104602"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104603"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104604"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104605"/>
+<variant id="6" fp:ВерсФорм="4.01" contentType="Xml" fp:ТипИнф="ТРАНД" gfv="104606"/>
+<variant id="7" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100000" gfv="104607"/>
+</format>
+<format id="47" fp:КНД="1152011" shortName="Налог на игорный бизнес" name="Налог на игорный бизнес" periods="100" form-modifiers="1" synonyms="игорн">
+<variant id="1" fp:ВерФОтч="2.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104701"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104702"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104703"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104704"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104705"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104706"/>
+<variant id="7" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="104707"/>
+</format>
+<format id="48" fp:КНД="1152016" shortName="Единый налог на вмененный доход" name="Налоговая декларация по единому налогу на вмененный доход для отдельных видов деятельности" periods="10" period-modifiers="10" form-modifiers="1" synonyms="ЕНВД">
+<variant id="1" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104801"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104802"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104803"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104804"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104805"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104806"/>
+<variant id="7" fp:ВерФОтч="3.00005" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="104807"/>
+<variant id="8" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="104808"/>
+<variant id="9" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="104809"/>
+<variant id="10" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="104810"/>
+<variant id="11" fp:ВерсФорм="5.04" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100010" gfv="104811"/>
+</format>
+<format id="49" fp:КНД="1152017" shortName="Единый налог по упрощенной системе налогообложения" name="Налоговая декларация по налогу, уплачиваемому в связи с применением упрощенной системы налогообложения" form-modifiers="1" synonyms="УСН">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104901"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104902"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104903"/>
+<variant id="4" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104904"/>
+<variant id="5" fp:ВерФОтч="3.00003" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104905"/>
+<variant id="6" fp:ВерФОтч="3.00004" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" periods="10" period-modifiers="1" gfv="104906"/>
+<variant id="7" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" periods="1" period-modifiers="100000" gfv="104907"/>
+<variant id="8" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" periods="1" period-modifiers="100000" gfv="104908"/>
+<variant id="9" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" periods="1" period-modifiers="100000" gfv="104909"/>
+</format>
+<format id="50" fp:КНД="1152019" name="Расчет лесных податей при отпуске древесины с учетом по площади и по числу деревьев, назначенных в рубку">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105001"/>
+</format>
+<format id="51" fp:КНД="1152026" shortName="Налог на имущество организаций" name="Налоговая декларация по налогу на имущество организаций" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105101"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100000" gfv="105102"/>
+</format>
+<format id="52" fp:КНД="1152027" shortName="Авансовые платежи по транспортному налогу" name="Налоговый расчет по авансовым платежам по транспортному налогу" periods="10" restriction-quarter="1-3" form-modifiers="1" synonyms="аванс|транспорт">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105201"/>
+<variant id="2" fp:ВерсФорм="4.01" contentType="Xml" fp:ТипИнф="ТРАНА" gfv="105202"/>
+</format>
+<format id="53" fp:КНД="1152028" shortName="Авансовые платежи по налогу на имущество" name="Налоговый расчет по авансовому платежу по налогу на имущество организаций" periods="10" period-modifiers="11" restriction-quarter="1-3" form-modifiers="1" synonyms="аванс">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105301"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105302"/>
+</format>
+<format id="54" fp:КНД="1153001" shortName="Декларация по земельному налогу" name="Налоговая декларация по земельному налогу" periods="101" form-modifiers="1" synonyms="земл">
+<variant id="1" fp:ВерФОтч="2.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105401"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105402"/>
+<variant id="3" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105403"/>
+</format>
+<format id="55" fp:КНД="1153003" shortName="Авансовые платежи по земельному налогу" name="Налоговый расчет по авансовым платежам по земельному налогу" periods="10" restriction-quarter="1-3" form-modifiers="1" synonyms="аванс|земл|земельн">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" period-modifiers="1" gfv="105501"/>
+<variant id="2" fp:ВерФОтч="3.00001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" period-modifiers="1" gfv="105502"/>
+<variant id="3" fp:ВерФОтч="3.00002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" period-modifiers="1" gfv="105503"/>
+<variant id="4" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="10" gfv="105504"/>
+</format>
+<format id="56" fp:КНД="1153005" shortName="Земельный налог" name="Налоговая декларация по земельному налогу" periods="1" form-modifiers="1" synonyms="земл|земельн">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="105601"/>
+<variant id="2" fp:ВерсФорм="4.01" contentType="Xml" fp:ТипИнф="ЗЕМНАЛД" gfv="105602"/>
+<variant id="3" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105603"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="100000" gfv="105604"/>
+</format>
+<format id="57" shortName="2-НДФЛ" name="Справка о доходах физического лица по форме 2-НДФЛ" periods="1" synonyms="налог|доход|подоход">
+<variant id="1" contentType="Xml" fp:ТипИнф="ДОХОД" fp:ВерсФорм="4.00" gfv="105701"/>
+<variant id="2" contentType="Xml" ТипИнф="ДОХОД" fp:ВерсФорм="4.00001" gfv="105702"/>
+<variant id="3" contentType="Xml" ТипИнф="ДОХОД" fp:ВерсФорм="5.01" fp:КНД="1151078" gfv="105703"/>
+<variant id="4" contentType="Xml" ТипИнф="ДОХОД" fp:ВерсФорм="5.02" fp:КНД="1151078" gfv="105704"/>
+</format>
+<format id="58" fp:КНД="1151088" shortName="Косвенные налоги (таможенный союз)" name="Налоговая декларация по косвенным налогам (налогу на добавленную стоимость и акцизам) при импорте товаров на территорию Российской Федерации с территории государств - членов таможенного союза" periods="100" period-modifiers="10" form-modifiers="1" synonyms="косвенн|ТС|таможен">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105801"/>
+</format>
+<format id="59" fp:КНД="1110011" shortName="Сведения о разрешениях и суммах сбора за вылов ВБР" name="Сведения о полученных разрешениях на добычу (вылов) водных биологических ресурсов, суммах сбора за добычу (вылов) водных биологических ресурсов, подлежащих уплате в виде разового и регулярных взносов" periods="1" form-modifiers="1" synonyms="ВБР|водн">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="105901"/>
+</format>
+<format id="60" fp:КНД="1110022" shortName="Сведения о количестве ОВБР, подлежащих изъятию в качестве прилова" name="Сведения о количестве объектов водных биологических ресурсов, подлежащих изъятию из среды их обитания в качестве разрешенного прилова, на основании разрешения на вылов водных биологических ресурсов" periods="1" form-modifiers="1" synonyms="ВБР|водн">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="106001"/>
+</format>
+<format id="61" fp:КНД="1150022" shortName="Сведения о доле доходов от образовательной и медицинской деятельности" name="Сведения о доле доходов организации от осуществления образовательной и (или) медицинской деятельности в общей сумме доходов, о численности работников в штате организации и  о численности медицинского персонала, имеющего сертификат специалиста, в штате организации" periods="1" form-modifiers="1" synonyms="образоват|медицин">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="106101"/>
+</format>
+<format id="62" fp:КНД="1110017" shortName="Заявление о ввозе товаров и уплате косвенных налогов" name="Сведения заявления российского налогоплательщика о ввозе товаров и уплате косвенных налогов" periods="1" synonyms="косвен">
+<variant id="1" fp:ВерсФорм="5.04" contentType="Xml" ТипИнф="ЭСНДСТСНП" gfv="106201"/>
+<variant id="2" fp:ВерсФорм="5.05" contentType="Xml" ТипИнф="ЭСНДСТСНП" gfv="106202"/>
+<variant id="3" fp:ВерсФорм="5.06" contentType="Xml" ТипИнф="ЭСНДСТСНП" gfv="106203"/>
+</format>
+<format id="63" fp:КНД="1110009" shortName="С-09-1. Сообщение об открытии/закрытии лицевого счета" name="Сообщение об открытии/закрытии лицевого счета, о возникновении/прекращении права использовать корпоративное электронное средство платежа (КЭСП) для переводов электронных денежных средств" periods="1" synonyms="открыт|закрыт">
+<variant id="1" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106301"/>
+</format>
+<format id="64" fp:КНД="1110010" shortName="С-09-2. Сообщение об участии в российских и иностранных организациях" name="Сообщение об участии в российских и иностранных организациях" periods="1" synonyms="иностранн|участи">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106401"/>
+</format>
+<format id="65" fp:КНД="1111047" shortName="С-09-4. Сообщение о реорганизации или ликвидации организации" name="Сообщение о реорганизации или ликвидации организации" periods="1" synonyms="реорганиз|ликвид">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106501"/>
+</format>
+<format id="66" fp:КНД="1111052" shortName="С-09-3-2. Сообщение об обособленных подразделениях, через которые прекращается деятельность" name="Сообщение об обособленных подразделениях российской организации на территории РФ, через которые прекращается деятельность организации" periods="1" synonyms="обособлен">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106601"/>
+</format>
+<format id="67" fp:КНД="1111053" shortName="С-09-3-1. Сообщение о создании обособленных подразделений" name="Сообщение о создании на территории РФ обособленных подразделений российской организации и об изменениях в ранее сообщенные сведения о таких обособленных подразделениях" periods="1" synonyms="создан|обособлен">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106701"/>
+</format>
+<format id="68" fp:КНД="1111054" shortName="Форма 1-6-Учет. Уведомление о выборе налогового органа" name="Уведомление о выборе налогового органа для постановки на учет российской организации по месту нахождения одного из ее обособленных подразделений, находящихся в одном муниципальном образовании, городах федерального значения Москве и Санкт-Петербурге на территориях, подведомственных разным налоговым органам" periods="1" synonyms="постановк|обособлен">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106801"/>
+</format>
+<format id="69" fp:КНД="1112015" shortName="Форма 2-2-Учет. Заявление физического лица о постановке на учет" name="Заявление физического лица о постановке на учет в налоговом органе" periods="1" synonyms="постановк">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="106901"/>
+</format>
+<format id="70" fp:КНД="1150017" shortName="Уведомление участника проекта Сколково" name="Уведомление участника проекта по существлению исследований, разработок и коммерциализации их результатов в соответствии с Федеральным законом &quot;Об инновационном центре &quot;Сколково&quot; об использовании права на освобождение (о продлении использования права на освобождение, об отказе от освобождения) от исполнения обязанностей налогоплательщика" periods="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="107001"/>
+</format>
+<format id="72" fp:КНД="1150021" shortName="Совокупный размер прибыли Сколково" name="Расчет совокупного размера прибыли (убытка) участника проекта по осуществлению исследований, разработок и коммерциализации их результатов в соответствии с ФЗ &quot;Об инновационном центре &quot;Сколково&quot;" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="107201"/>
+</format>
+<format id="74" fp:КНД="1165034" shortName="Опись документов, направляемых в налоговый орган" periods="1" name="Опись документов, направляемых в налоговый орган">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107401"/>
+</format>
+<format id="75" fp:КНД="1150023" shortName="Финансовый результат инвестиционного товарищества" name="Расчет финансового результата инвестиционного товарищества" periods="110" period-modifiers="100001" form-modifiers="1" synonyms="товариществ|инвестиционн">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="107501"/>
+</format>
+<format id="76" fp:КНД="1111022" shortName="Заявление о постановке на учет организации в качестве налогоплательщика ЕНВД" name="Заявление о постановке на учет организации в качестве налогоплательщика единого налога на вмененный доход для отдельных видов деятельности" periods="1">
+<variant id="1" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107601"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107602"/>
+</format>
+<format id="77" fp:КНД="1112012" shortName="Заявление о постановке на учет ИП в качестве налогоплательщика ЕНВД" name="Заявление о постановке на учет индивидуального предпринимателя в качестве налогоплательщика единого налога на вмененный доход для отдельных видов деятельности" periods="1">
+<variant id="1" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107701"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107702"/>
+</format>
+<format id="78" fp:КНД="1110025" shortName="Уведомления о контролируемых сделках" name="Уведомления о контролируемых сделках" periods="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107801"/>
+</format>
+<format id="79" fp:КНД="1150001" shortName="Уведомление о переходе на УСН" name="Уведомление о переходе на упрощенную систему налогообложения (форма № 26.2-1)" periods="1">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="107901"/>
+</format>
+<format id="80" fp:КНД="1112017" shortName="Заявление о снятии с учета ИП в качестве налогоплательщика ЕНВД" name="Заявление о снятии с учета индивидуального предпринимателя в качестве налогоплательщика единого налога на вмененный доход для отдельных видов деятельности" periods="1">
+<variant id="1" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108001"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108002"/>
+</format>
+<format id="81" fp:КНД="1111050" shortName="Заявление о снятии с учета организации в качестве налогоплательщика ЕНВД" name="Заявление о снятии с учета организации в качестве налогоплательщика единого налога на вмененный доход для отдельных видов деятельности" periods="1">
+<variant id="1" fp:ВерсФорм="5.04" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108101"/>
+<variant id="2" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108102"/>
+</format>
+<format id="82" fp:КНД="1150002" shortName="Уведомление об отказе от УСН" name="Уведомление об отказе от применения упрощенной системы налогообложения (форма № 26.2-3)" periods="1">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108201"/>
+</format>
+<format id="83" fp:КНД="1150003" shortName="Уведомление об утрате права на УСН" name="Уведомление об утрате права на применение упрощенной системы налогообложения (форма № 26.2-2)" periods="1">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108301"/>
+</format>
+<format id="84" fp:КНД="1150016" shortName="Уведомление об изменении объекта налогообложения" name="Уведомление об изменении объекта налогообложения (форма № 26.2-6)" periods="1">
+<variant id="1" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108401"/>
+</format>
+<format id="85" fp:КНД="1150024" shortName="Уведомление о прекращении деятельности по УСН" name="Уведомление о прекращении предпринимательской деятельности, в отношении которой применялась упрощенная система налогообложения (форма № 26.2-8)" periods="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="108501"/>
+</format>
+</group>
+<group id="2" name="Бухгалтерская отчетность">
+<format id="1" fp:КНД="0409101" shortName="Оборотная ведомость по счетам бухгалтерского учета кредитной организации" name="Оборотная ведомость по счетам бухгалтерского учета кредитной организации (форма N101)" periods="110" period-modifiers="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200101"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200102"/>
+</format>
+<format id="2" fp:КНД="0409102" shortName="Отчет о прибылях и убытках кредитной организации " name="Отчет о прибылях и убытках кредитной организации (форма №102)" periods="10" period-modifiers="1" form-modifiers="1" synonyms="прибыл">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200201"/>
+<variant id="2" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200202"/>
+</format>
+<format id="3" fp:КНД="0409191" name="Оборотная ведомость по счетам кредитной организации" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200301"/>
+</format>
+<format id="4" fp:КНД="0409192" name="Отчет о прибылях и убытках (Форма для кредитной организации, КНД 0409192)" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200401"/>
+</format>
+<format id="5" fp:КНД="0409199" name="Сводная ведомость оборотов по отражению событий после отчетной даты" periods="1" form-modifiers="1">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200501"/>
+</format>
+<format id="6" fp:КНД="0409806" shortName="Бухгалтерский баланс кредитной организации (публикуемая форма)" periods="10" period-modifiers="11">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200601"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200602"/>
+</format>
+<format id="7" fp:КНД="0409807" name="Отчет о прибылях и убытках кредитной организации (публикуемая форма)" periods="10" period-modifiers="11">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200701"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200702"/>
+</format>
+<format id="8" fp:КНД="0409814" name="Отчет о движении денежных средств кредитной организации (публикуемая форма)" periods="1" period-modifiers="10">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200801"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="200802"/>
+</format>
+<format id="9" fp:КНД="0503055" name="Отчёт об исполнении сметы доходов и расходов по внебюджетным источникам">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="200901"/>
+</format>
+<format id="10" fp:КНД="0710001" name="Форма №1. Бухгалтерский баланс" periods="10" period-modifiers="10011">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201001"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201002"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201003"/>
+</format>
+<format id="11" fp:КНД="0710002" name="Форма №2. Отчет о прибылях и убытках" periods="10" period-modifiers="10011">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201101"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201102"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201103"/>
+</format>
+<format id="12" fp:КНД="0710003" name="Форма №3. Отчет об изменении капитала" periods="1">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201201"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201202"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201203"/>
+</format>
+<format id="13" fp:КНД="0710004" name="Форма №4. Отчет о движении денежных средств" periods="1">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201301"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201302"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201303"/>
+</format>
+<format id="14" fp:КНД="0710005" name="Форма №5. Приложение к бухгалтерскому балансу" periods="1">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201401"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201402"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201403"/>
+</format>
+<format id="15" fp:КНД="0710006" name="Форма №6. Отчет о целевом использовании средств" periods="1">
+<variant id="1" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201501"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201502"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201503"/>
+</format>
+<format id="16" fp:КНД="0710101" shortName="Бухгалтерский баланс НПФ" name="Бухгалтерский баланс негосударственного пенсионного фонда (форма 1-НПФ)" periods="10" period-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201601"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201602"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="10011" form-modifiers="1" gfv="201603"/>
+</format>
+<format id="17" fp:КНД="0710102" shortName="Отчёт о прибылях и убытках НПФ" name="Отчет о прибылях и убытках негосударственного пенсионного фонда (форма 2-НПФ)" periods="10" period-modifiers="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201701"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201702"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" period-modifiers="10011" form-modifiers="1" gfv="201703"/>
+</format>
+<format id="18" fp:КНД="0710103" shortName="Отчёт о движении средств целевого финансирования НПФ" name="Отчет о движении средств целевого финансирования, пенсионных резервов и пенсионных накоплений негосударственного пенсионного фонда (форма 3-НПФ)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201801"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201802"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201803"/>
+</format>
+<format id="19" fp:КНД="0710104" shortName="Отчёт о движении денежных средств НПФ" name="Отчет о движении денежных средств негосударственного пенсионного фонда (форма 4-НПФ)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="201901"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="201902"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="201903"/>
+</format>
+<format id="20" fp:КНД="0710105" shortName="Отчёт о движении имущества, составляющего пенсионные резервы и пенсионные накопления НПФ" name="Отчет о движении имущества, составляющего пенсионные резервы и пенсионные накопления негосударственного пенсионного фонда (форма 5-НПФ)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202001"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202002"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202003"/>
+</format>
+<format id="21" fp:КНД="0710106" shortName="Отчет о целевом использовании средств, предназначенных для обеспечения уставной деятельности НПФ" name="Отчет о целевом использовании средств, предназначенных для обеспечения уставной деятельности негосударственного пенсионного фонда (форма 6-НПФ)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202101"/>
+<variant id="2" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202102"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202103"/>
+</format>
+<format id="22" fp:КНД="0711001" shortName="Бухгалтерский баланс страховой организации" name="Бухгалтерский баланс страховой организации (форма №1-страховщик)" periods="10" period-modifiers="10011">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202201"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202202"/>
+<variant id="3" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202203"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202204"/>
+<variant id="5" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202205"/>
+</format>
+<format id="23" fp:КНД="0711002" shortName="Отчет о прибылях и убытках страховой организации" name="Отчет о прибылях и убытках страховой организации (форма №2-страховщик)" periods="10" period-modifiers="10011">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202301"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202302"/>
+<variant id="3" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202303"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202304"/>
+<variant id="5" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202305"/>
+</format>
+<format id="24" fp:КНД="0711003" name="Отчет об изменениях капитала страховой организации (форма № 3)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202401"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202402"/>
+<variant id="3" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202403"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202404"/>
+<variant id="5" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202405"/>
+<variant id="5" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202405"/>
+</format>
+<format id="25" fp:КНД="0711004" shortName="Отчет о движении денежных средств страховой организации" name="Отчет о движении денежных средств страховой организации (форма №4-страховщик)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202501"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202502"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202503"/>
+<variant id="4" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202504"/>
+<variant id="4" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202504"/>
+</format>
+<format id="26" fp:КНД="0711005" shortName="Приложение к бухгалтерскому балансу страховой организации" name="Приложение к бухгалтерскому балансу страховой организации (форма №5-страховщик)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202601"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202602"/>
+<variant id="3" fp:ВерФОтч="2.01002" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202603"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202604"/>
+</format>
+<format id="27" fp:КНД="0711102" shortName="Отчет о прибылях и убытках страховой мед. орг." name="Отчет о прибылях и убытках страховой медицинской организации по обязательному медицинскому страхованию(форма №2а-страховщик)" periods="10" period-modifiers="10011">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202701"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202702"/>
+<variant id="3" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202703"/>
+<variant id="4" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202704"/>
+</format>
+<format id="28" fp:КНД="0711104" shortName="Отчет о движении денежных средств страховой мед.орг." name="Отчет о движении денежных средств страховой медицинской организации по обязательному медицинскому страхованию (форма № 4а-страховщик)" periods="1">
+<variant id="1" fp:ВерФОтч="2.01000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202801"/>
+<variant id="2" fp:ВерФОтч="2.01001" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="202802"/>
+<variant id="3" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" form-modifiers="1" gfv="202803"/>
+</format>
+<format id="29" fp:КНД="0710099" shortName="Формы №1-6 Бухгалтерская отчетность" name="Формы №1-6 Бухгалтерская отчетность" periods="10" period-modifiers="10011" form-modifiers="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" shortName="Формы №1 и №2 Бухгалтерская отчетность" name="Формы №1 и №2 Бухгалтерская отчетность" restriction-quarte="1-3" gfv="202901"/>
+<variant id="2" fp:ВерсФорм="5.02" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202902"/>
+<variant id="3" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="202903"/>
+</format>
+<format id="30" fp:КНД="0711006" shortName="Отчет о целевом использовании средств ОМС" name="Отчет страховой медицинской организации о целевом использовании средств обязательного медицинского страхования" periods="10" period-modifiers="10011" form-modifiers="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="203001"/>
+</format>
+<format id="31" fp:КНД="0712006" shortName="Отчет о целевом использовании средств ОВС" name="Отчет общества взаимного страхования о целевом использовании полученных средств" periods="10" period-modifiers="10011" form-modifiers="1">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="203101"/>
+</format>
+<format id="32" fp:КНД="0710098" shortName="Формы №1-6 Бухгалтерская отчетность малого предпринимательства" name="Бухгалтерская отчетность субъектов малого предпринимательства" periods="1" period-modifiers="10010">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="203201"/>
+</format>
+</group>
+<group id="3" name="Спиртовая отчетность">
+<format id="1" fp:ТипИнф="1152014" shortName="Декларация об объемах производства и оборота этилового спирта, в том числе денатурированного" name="Сведения об объемах производства и оборота этилового спирта, в том числе денатурированного">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300101"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300102"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300103"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300104"/>
+</format>
+<format id="2" fp:ТипИнф="1152020" name="Декларация об объемах использования этилового спирта,в том числе денатурированного">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300201"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300202"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300203"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300204"/>
+</format>
+<format id="3" fp:ТипИнф="1152021" name="Декларация об объемах производства и оборота алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300301"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300302"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300303"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300304"/>
+</format>
+<format id="4" fp:ТипИнф="1152022" name="Декларация об объемах использования алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300401"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300402"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300403"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300404"/>
+</format>
+<format id="5" fp:ТипИнф="1152023" shortName="Декларация об объемах оборота этилового спирта" name="Сведения об объемах оборота этилового спирта, алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300501"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300502"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300503"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300504"/>
+</format>
+<format id="6" fp:ТипИнф="1152024" shortName="Декларация об объемах поставки этилового спирта" name="Сведения об объемах поставки этилового спирта, алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300601"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300602"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300603"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300604"/>
+</format>
+<format id="7" fp:ТипИнф="1152025" shortName="Декларация об объемах закупки этилового спирта" name="Сведения об объемах закупки этилового спирта, алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="3.02" contentType="Plain866" gfv="300701"/>
+<variant id="2" fp:ВерсФорм="2.01" contentType="Plain866" valid="false" gfv="300702"/>
+<variant id="3" fp:ВерсФорм="3.00" contentType="Plain866" valid="false" gfv="300703"/>
+<variant id="4" fp:ВерсФорм="3.01" contentType="Plain866" valid="false" gfv="300704"/>
+</format>
+</group>
+<group id="4" name="Отчетность в органы статистики">
+<format id="1" fp:code="610013001012" ОКУД="0610013" name="Форма П1 - Сведения о производстве и отгрузке товаров и услуг" fp:shifr="stk_un_p1" shortName="Форма П1">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400101"/>
+</format>
+<format id="2" fp:code="617004001004" ОКУД="0617004" name="Форма П-2 - Сведения об инвестициях в нефинансовые активы" fp:shifr="un_p2" shortName="Форма П-2">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400201"/>
+</format>
+<format id="3" fp:code="617005001012" ОКУД="0617005" name="Форма П2 - Краткая">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400301"/>
+</format>
+<format id="4" fp:code="608003003012" fp:shifr="stk_un_p3" ОКУД="0608003" name="Форма П-3 - Сведения о финансовом состоянии организации" shortName="Форма П-3">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400401"/>
+</format>
+<format id="5" fp:code="606010002012" ОКУД="0606010" name="Форма П-4 - Сведения о численности, заработной плате и движении работников" fp:shifr="un_p4" shortName="Форма П-4. Средняя численность более 15 человек">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="20-12-2012" gfv="400501"/>
+<variant id="2" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="29-09-2012" gfv="400502"/>
+</format>
+<format id="6" fp:code="606010004004" ОКУД="0606010" name="Форма П-4 - Сведения о численности, заработной плате и движении работников" fp:shifr="un_p4" shortName="Форма П-4. Средняя численность до 15 человек">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="20-12-2012" gfv="400601"/>
+<variant id="2" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="22-06-2012" gfv="400602"/>
+</format>
+<format id="7" fp:code="610016002004" ОКУД="0610016" name="Форма П5-м - Основные сведения о деятельности организации" fp:shifr="stk_un_p1" shortName="Форма П5-м">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400701"/>
+</format>
+<format id="8" name="Бухгалтерская статистическая отчётность">
+<variant id="1" contentType="Plain866" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400801"/>
+<variant id="2" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:XmlRootElement="БухСтатОтч" gfv="400802"/>
+</format>
+<format id="9" fp:code="608020001004" ОКУД="0608020" name="Форма П6 - Сведения о финансовых вложениях">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="400901"/>
+</format>
+<format id="10" fp:code="606028001012" ОКУД="0606028" name="Форма П4 (НЗ) - Сведения о неполной занятости и движении работников" fp:shifr="p4_nz" shortName="Форма П4 (НЗ)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401001"/>
+</format>
+<format id="11" fp:code="608014001001" ОКУД="0608014" name="Форма 5-з (квартальная) - Сведения о затратах на производство и продажу продукции (товаров, работ, услуг)" fp:shifr="f5zkw_11" shortName="Форма 5-З">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401101"/>
+</format>
+<format id="12" fp:code="617001001004" ОКУД="0617001" name="Форма 1-ИНВЕСТ - Сведения об инвестициях в Россию из-за рубежа и инвестициях из России за рубеж">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401201"/>
+</format>
+<format id="13" fp:code="601013001004" ОКУД="0601013" name="Форма ПМ - Сведения об основных показателях деятельности малого предприятия" fp:shifr="pm" shortName="Форма ПМ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401301"/>
+</format>
+<format id="14" fp:code="607019001012" ОКУД="0607019" name="Форма 4-ЗАПАСЫ - Сведения о запасах топлива">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401401"/>
+</format>
+<format id="15" fp:code="614008003012" ОКУД="0614008" name="Форма ПМ-торг - Сведения об обороте торговли малого предприятия" fp:shifr="pm_torg" shortName="Форма ПМ-торг">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401501"/>
+</format>
+<format id="16" fp:code="612008001000" ОКУД="0612008" name="Форма С-1 - Сведения о вводе в эксплуатацию зданий и сооружений" shortName="Форма С-1" fp:shifr="st_c1">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401601"/>
+</format>
+<format id="17" fp:code="610010001012" ОКУД="0610010" name="Форма ПМ-пром - Сведения о производстве продукции малыми предпрятиями" shortName="Форма ПМ-пром" fp:shifr="un_pm_prom">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401701"/>
+</format>
+<format id="18" fp:code="609203002004" ОКУД="0609203" name="Форма 22-ЖКХ (сводная) - Сведения о работе жилищно-коммунальных организаций в условиях реформы" shortName="Форма 22-ЖКХ (сводная)" fp:shifr="jx_22jkxs">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401801"/>
+</format>
+<format id="19" fp:code="614009002004" ОКУД="0614009" name="Форма 3-торг (пм)" shortName="Форма 3-торг (пм)" fp:shifr="3t">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="401901"/>
+</format>
+<format id="20" fp:code="1601308002001" ОКУД="1601308" name="Форма МП-сп - Сведения об основных показателях деятельности малого предприятия" shortName="Форма МП-сп" fp:shifr="mp_sp">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402001"/>
+</format>
+<format id="21" fp:code="611012002012" ОКУД="0611012" name="Форма П-1 (сх) - Сведения о производстве и отгрузке сельскохозяйственной продукции" shortName="Форма П-1 (сх)" fp:shifr="cx_p1">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402101"/>
+</format>
+<format id="22" fp:code="616007001012" ОКУД="0616007" name="Форма 1-цены производителей - Сведения о ценах производителей промышленных товаров (работ, услуг)" shortName="Форма 1-цены производителей" fp:shifr="ic">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="21-12-2012" gfv="402201"/>
+</format>
+<format id="23" fp:code="607013001004" ОКУД="0607013" name="Форма 3-СБ (вывоз)" shortName="Форма 3-СБ (вывоз)" fp:shifr="to_3cbvivoz">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402301"/>
+</format>
+<format id="24" fp:code="616012003012" ОКУД="0616012" name="Форма 1-сх (цены) - Сведения о ценах производителей с/х продукции" shortName="Форма 1-сх (цены)" fp:shifr="cx">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402401"/>
+</format>
+<format id="25" fp:code="614001001004" ОКУД="0614001" name="Форма 1-конъюнктура - Обследование конъюнктуры и деловой активности в розничной торговле" shortName="Форма 1-конъюнктура" fp:shifr="to_1konroz">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402501"/>
+</format>
+<format id="26" fp:code="601009001001" ОКУД="0601009" name="Форма 1-предприятие - Основные сведения о деятельности организации" shortName="Форма 1-предприятие" fp:shifr="oe_1pred11">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402601"/>
+</format>
+<format id="27" fp:code="610071002012" fp:shifr="1" ОКУД="0610071" name="Форма 1-алкоголь (месячная) - Сведения о производстве и отгрузке этилового спирта, спиртосодержащей, алкогольной продукции и розливе алкогольной продукции" shortName="Форма 1-алкоголь">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402701"/>
+</format>
+<format id="28" fp:code="616010001004" fp:shifr="i_1rj" ОКУД="0616010" name="Форма 1-РЖ - Средние цены и индексы цен на рынке жилья" shortName="Форма 1-РЖ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402801"/>
+</format>
+<format id="29" fp:code="611006004004" fp:shifr="sm" ОКУД="0611006" name="Форма 3-фермер (квартальная, микро)" shortName="Форма 3-фермер (квартальная, микро)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="402901"/>
+</format>
+<format id="30" fp:code="611006005012" fp:shifr="sm" ОКУД="0611006" name="Форма 3-фермер (месячная, малые)" shortName="Форма 3-фермер (месячная, малые)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403001"/>
+</format>
+<format id="31" fp:code="614046002004" fp:shifr="3m" ОКУД="0614046" name="Форма 3-рынок - Сведения о числе торговых мест на рынках" shortName="Форма 3-рынок">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403101"/>
+</format>
+<format id="32" fp:code="607002001004" fp:shifr="to_1konopt" ОКУД="0607002" name="Форма 1-конъюнктура (опт) - Обследование конъюнктуры и деловой активности в оптовой торговле" shortName="Форма 1-конъюнктура (опт)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403201"/>
+</format>
+<format id="33" fp:code="616008001012" fp:shifr="i_2c" ОКУД="0616008" name="Форма 2-цены приобретения - Сведения о ценах на приобретенные организациями отдельные виды товаров" shortName="Форма 2-цены приобретения">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403301"/>
+</format>
+<format id="34" fp:code="616004001012" fp:shifr="i_9kc" ОКУД="0616004" name="Форма 9-кс - Сведения о ценах на приобретенные основные строительные материалы, детали и конструкции (месячная)" shortName="Форма 9-кс (месячная)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403401"/>
+</format>
+<format id="35" fp:code="608012003004" fp:shifr="fin_ck" ОКУД="0608012" name="Форма 1-ск - Сведения о деятельности страховщика" shortName="Форма 1-ск">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403501"/>
+</format>
+<format id="36" fp:code="607006001004" fp:shifr="to_1torgi" ОКУД="0607006" name="Форма 1-торги - Сведения о проведении торгов и о других способах размещения заказов на поставки товаров, выполнение работ, оказание услуг для государственных и муниципальных нужд" shortName="Форма 1-торги">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403601"/>
+</format>
+<format id="37" fp:code="609703001001" fp:shifr="usl_1pl" ОКУД="0609703" name="Форма 1-услуги - Сведения об объеме платных услуг населению" shortName="Форма 1-услуги">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403701"/>
+</format>
+<format id="38" fp:code="602001002001" fp:shifr="st_f_11" ОКУД="0602001" name="Форма №11 - Сведения о наличии и движении основных фондов (средств) и других нефинансовых активов" shortName="Форма №11">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403801"/>
+</format>
+<format id="39" fp:code="710005003000" fp:shifr="gbo_f5" ОКУД="0710005" name="Форма 5 - приложение к бухгалтерскому балансу и отчету о прибылях и убытках" shortName="Форма 5">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="403901"/>
+</format>
+<format id="40" fp:code="602002002001" fp:shifr="st_f_11kr" ОКУД="0602002" name="Форма №11 (краткая) - Сведения о наличии и движении основных фондов (средств) некоммерческих организаций" shortName="Форма №11 (краткая)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404001"/>
+</format>
+<format id="41" fp:code="608011001000" fp:shifr="f_12f" ОКУД="0608011" name="Форма №12-Ф - Сведения об использовании денежных средств" shortName="Форма №12-Ф">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404101"/>
+</format>
+<format id="42" fp:code="604018001001" fp:shifr="3i" ОКУД="0604018" name="Форма 3-информ - Сведения об использовании информационных и коммуникационных технологий и производстве вычислительной техники, программного обеспечения и оказания услуг в этих сферах" shortName="Форма 3-информ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404201"/>
+</format>
+<format id="43" fp:code="617010001001" fp:shifr="pril_p2" ОКУД="0617010" name="Форма П-2 (инвест) - Сведения об инвестиционной деятельности (Годовая)" shortName="Форма П-2 (инвест)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404301"/>
+</format>
+<format id="44" fp:code="608025002004" fp:shifr="rp" ОКУД="0608025" name="Форма 1-РП(срочная) - Сведения о состоянии расчетов за отгруженную продукцию, выполненные работы (услуги) (срочная)" shortName="Форма 1-РП(срочная)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404401"/>
+</format>
+<format id="45" fp:code="615056006004" fp:shifr="tr_65avt" ОКУД="0615056" name="Форма 65-автотранс - Сведения о продукции автомобильного транспорта (нарастающим итогом)" shortName="Форма 65-автотранс">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404501"/>
+</format>
+<format id="46" fp:code="610066002004" fp:shifr="p_6neft" ОКУД="0610066" name="Форма 6-нефть - Сведения о себестоимости добычи нефти, производства нефтепродуктов" shortName="Форма 6-нефть">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404601"/>
+</format>
+<format id="47" fp:code="1608303001001" fp:shifr="fin_1ano" ОКУД="1608303" name="Форма 1-АНО - Основные сведения о деятельности некоммерческой организации" shortName="Форма 1-АНО">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404701"/>
+</format>
+<format id="48" fp:code="606027001004" fp:shifr="ea_gms" ОКУД="0606027" name="Форма 1-Т(ГМС) государственная служба" shortName="Форма 1-Т(ГМС) государственная служба">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404801"/>
+</format>
+<format id="49" fp:code="606027002004" fp:shifr="ea_gms" ОКУД="0606027" name="Форма 1-Т(ГМС) муниципальная служба" shortName="Форма 1-Т(ГМС) муниципальная служба">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="404901"/>
+</format>
+<format id="50" fp:code="606013001012" fp:shifr="3f" ОКУД="0606013" name="Форма 3-Ф - Сведения о просроченной задолженности по заработной плате" shortName="Форма 3-Ф">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405001"/>
+</format>
+<format id="51" fp:code="609255001004" fp:shifr="jk" ОКУД="0609255" name="Форма 26-ЖКХ - Сведения о предоставлении гражданам социальной поддержки по оплате жилого помещения и коммунальных услуг" shortName="Форма 26-ЖКХ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405101"/>
+</format>
+<format id="52" fp:code="611010001001" fp:shifr="cx_29" ОКУД="0611010" name="Форма 29-сх (категории 13, 58-60) - Сведения о сборе урожая сельскохозяйственных культур" shortName="Форма 29-сх (категории 13, 58-60)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405201"/>
+</format>
+<format id="53" fp:code="615055001012" fp:shifr="1avtotr" ОКУД="0615055" name="Форма 1-автотранс (срочная) - Сведения о работе пассажирского автомобильного транспорта" shortName="Форма 1-автотранс (срочная)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405301"/>
+</format>
+<format id="54" fp:code="610012002004" fp:shifr="1n" ОКУД="0610012" name="Форма 1-НАНО - Сведения об отгрузке товаров, работ и услуг, связанных с нанотехнологиями" shortName="Форма 1-НАНО">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405401"/>
+</format>
+<format id="55" fp:code="606029001001" fp:shifr="1t_pr" ОКУД="0606029" name="Форма 1-Т(проф) - Сведения о численности и потребности организаций в работниках по профессиональным группам" shortName="Форма 1-Т(проф)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405501"/>
+</format>
+<format id="56" fp:code="604016001001" fp:shifr="ivt_1teh" ОКУД="0604016" name="Форма 1-Технология - Сведения о создании и использовании передовых производственных технологий" shortName="Форма 1-Технология">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405601"/>
+</format>
+<format id="57" fp:code="611021001001" fp:shifr="cx_21" ОКУД="0611021" name="Форма 21-СХ - Сведения о реализации сельскохозяйственной продукции" shortName="Форма 21-СХ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405701"/>
+</format>
+<format id="58" fp:code="611009001001" fp:shifr="cx_f24" ОКУД="0611009" name="Форма 24-СХ - Сведения о состоянии животноводства" shortName="Форма 24-СХ">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405801"/>
+</format>
+<format id="59" fp:code="612007001001" fp:shifr="st_12str" ОКУД="0612007" name="Форма 12-строительство - Сведения о наличии основных строительных машин" shortName="Форма 12-строительство">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="405901"/>
+</format>
+<format id="60" fp:code="604030002001" fp:shifr="nk" ОКУД="0604030" name="Форма 1-НК - Сведения о работе аспирантуры и докторантуры" shortName="Форма 1-НК">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="406001"/>
+</format>
+<format id="61" fp:code="609506001001" fp:shifr="o_85k" ОКУД="0609506" name="Форма 85-к - Сведения о деятельности дошкольного учереждения" shortName="Форма 85-к">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="406101"/>
+</format>
+<format id="62" fp:code="608025002001" fp:shifr="rg" ОКУД="0608025" name="Форма 1-РП(срочная, годовая) - Сведения о состоянии расчетов за отгруженную продукцию, выполненные работы (услуги) (годовая)" shortName="Форма 1-РП(срочная, годовая)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="406201"/>
+</format>
+<format id="63" fp:code="610068001001" fp:shifr="to_4top" ОКУД="0610068" name="Форма 4-ТЭР - Сведения об остатках, поступлении и расходе топливно-энергетических ресурсов, сборе и использовании отработанных нефтепродуктов" shortName="Форма 4-ТЭР">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" gfv="406301"/>
+</format>
+<format id="64" fp:code="615071004001" fp:shifr="tr_1avt5" ОКУД="0615071" name="Форма 1-ТР(автотранспорт) - Сведения об автотранспорте и о протяженности автодорог необщего пользования" shortName="Форма 1-ТР(автотранспорт)">
+<variant id="1" contentType="Xml" ТипИнф="СТАТОТЧЕТНОСТЬ" fp:version="17-01-2013" gfv="406401"/>
+</format>
+</group>
+<group id="5" name="Отчетность в ФСТ">
+<format id="1" fp:КФО="46-ТЭ31" name="Форма 46-ТЭ. Cведения о полезном отпуске (продаже) тепловой энергии в паре">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500101"/>
+</format>
+<format id="2" fp:КФО="46-ТЭ32" name="Форма 46-ТЭ. Cведения о полезном отпуске (продаже) тепловой энергии в горячей воде">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500201"/>
+</format>
+<format id="3" fp:КФО="46-ЭЭ31" name="Форма 46-ЭЭ. Сведения о полезном отпуске (продаже) электрической энергии и мощности, реализуемой по регулируемым ценам">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500301"/>
+</format>
+<format id="4" fp:КФО="46-ЭЭ32" name="Форма 46-ЭЭ. Сведения о полезном отпуске (продаже) электрической энергии и мощности, реализуемой по нерегулируемым ценам">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500401"/>
+</format>
+<format id="5" fp:КФО="46-ЭЭ33" name="Форма 46-ЭЭ. Сведения о полезном отпуске (продаже) электрической энергии и мощности">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500501"/>
+</format>
+<format id="6" fp:КФО="46-ЭЭ34" name="Форма 46-ЭЭ. Сведения о полезном отпуске (покупке) электрической энергии и мощности">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500601"/>
+</format>
+<format id="7" fp:КФО="46-ЭЭ35" name="Форма 46-ЭЭ. Сведения об отпуске (передаче) электроэнергии потребителям распределительными сетевыми организациями">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬФСТ" gfv="500701"/>
+</format>
+</group>
+<group id="6" name="Запросы">
+<format id="1" name="Запрос на выписку" fp:ТипИнф="ЗАЯВИНФВЫПИС">
+<variant id="1" contentType="Plain866" gfv="600101"/>
+</format>
+<format id="2" fp:КНД="1166101" name="ИОН запрос">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ЗАПРОСИНФУСЛ" gfv="600201"/>
+</format>
+</group>
+<group id="7" name="Алкогольная отчетность">
+<format id="1" fp:КФО="ДЕКЛРПАП" name="Декларация о розничной продаже алкогольной продукции на территории Свердловской области">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ДЕКЛАЛКПРОД" gfv="700101"/>
+</format>
+<format id="2" fp:НомФорм="11-о" shortName="Объемы розничной продажи алкогольной и спиртосодержащей продукции" name="Объемы розничной продажи алкогольной и спиртосодержащей продукции">
+<variant id="1" fp:ВерсФорм="4.20" contentType="Xml" ТипИнф="ДЕКЛАЛКПРОД" gfv="700201"/>
+</format>
+<format id="3" fp:НомФорм="12-о" shortName="Декларация об объеме розничной продажи пива и пивных напитков" name="Декларация об объеме розничной продажи пива и пивных напитков">
+<variant id="1" fp:ВерсФорм="4.20" contentType="Xml" ТипИнф="ДЕКЛАЛКПРОД" gfv="700301"/>
+</format>
+</group>
+<group id="8" name="Доступ к федеральным ресурсам">
+<format id="1" name="Запрос на выписку из ЕГРИП">
+<variant id="1" gfv="800101"/>
+</format>
+<format id="2" name="Запрос на выписку из ЕГРЮЛ">
+<variant id="1" gfv="800201"/>
+</format>
+</group>
+<group id="9" name="Документооборот банка">
+<format id="1" fp:КНД="ИЗВОШИБСЧЕТ.5.00" name="Извещение об ошибках в сообщении банка">
+<variant id="1" contentType="Plain866" gfv="900101"/>
+</format>
+<format id="2" fp:КНД="КВИТПРМСЧЕТ.5.00" name="Квитанция о принятии (непринятии) сообщения банка">
+<variant id="1" contentType="Plain866" gfv="900201"/>
+</format>
+<format id="3" fp:КНД="bank_abeyance_operation" name="Банковская форма о приостановлении операций по счетам">
+<variant id="1" fp:ВерФОтч="1.00000" contentType="Plain866" gfv="900301"/>
+</format>
+<format id="4" fp:КНД="bank_repeal_abeyance_operation" name="Банковская форма об отмене приостановления операций по счетам">
+<variant id="1" fp:ВерФОтч="1.00000" contentType="Plain866" gfv="900401"/>
+</format>
+</group>
+<group id="10" name="Налоговая отчетность. Белгород">
+<format id="1" fp:КНД="0310101" name="Отчет об итоговых суммах начисленных доходов (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000101"/>
+</format>
+<format id="2" fp:КНД="0310102" name="Декларация о расходовании алкогольной и спиртосодержащей продукции розничными организациями (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000201"/>
+</format>
+<format id="3" fp:КНД="0310103" name="Заявление на проверку безопасности алкогольной и спиртосодержащей продукции (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000301"/>
+</format>
+<format id="4" fp:КНД="0310104" name="Декларация об остатках алкогольной и спиртосодержащей продукции в розничной сети (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000401"/>
+</format>
+<format id="5" fp:КНД="0310106" name="Декларация о расходовании алкогольной и спиртосодержащей продукции оптовыми организациями (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000501"/>
+</format>
+<format id="6" fp:КНД="0310107" shortName="Декларация о поступлении алкогольной и спиртосодержащей продукции (Белгород)" name="Декларация о поступлении алкогольной и спиртосодержащей продукции (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000601"/>
+</format>
+<format id="7" fp:КНД="0310108" name="Упрощенная декларация о расходовании алкогольной и спиртосодержащей продукции розничными организациями (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000701"/>
+</format>
+<format id="8" fp:КНД="0310102" fp:НаимФОтч="ОТЧЕТ О ВЕЛИЧИНЕ СРЕДНЕЙ ЗАРАБОТНОЙ ПЛАТЫ НА ПРЕДПРИЯТИИ" name="Отчет о величине средней заработной платы на предприятии (Белгород)">
+<variant id="1" fp:ВерФОтч="3.00000" contentType="Plain866" fp:ТипИнф="ОТЧЕТНОСТЬНП" gfv="1000801"/>
+</format>
+</group>
+<group id="11" name="Отчетность в ПФР">
+<format id="1" fp:ТипДокумента="АНКЕТА_ЗЛ" alias="АДВ-1" name="Анкета застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1100101"/>
+</format>
+<format id="2" fp:ТипДокумента="ЗАЯВЛЕНИЕ_ОБ_ОБМЕНЕ" alias="АДВ-2" name="Заявление об обмене страхового свидетельства">
+<variant id="1" contentType="Xml" gfv="1100201"/>
+</format>
+<format id="3" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_ДУБЛИКАТЕ" alias="АДВ-3" name="Заявление о выдаче дубликата страхового свидетельства">
+<variant id="1" contentType="Xml" gfv="1100301"/>
+</format>
+<format id="4" fp:ТипДокумента="ВХОДЯЩАЯ_ОПИСЬ" alias="АДВ-6-1" name="Опись документов, передаваемых страхователем в ПФР">
+<variant id="1" contentType="empty" gfv="1100401"/>
+</format>
+<format id="5" fp:ТипДокумента="СТАРЫЕ_ИС_СЗВ-1" alias="СЗВ-1" name="Индивидуальные сведения о трудовом стаже, заработке (вознаграждении), доходе и начисленных страховых взносах застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1100501"/>
+</format>
+<format id="6" fp:ТипДокумента="СТАРЫЕ_ИС_СЗВ-3" alias="СЗВ-3" name="Индивидуальные сведения о трудовом стаже, заработке (вознаграждении), доходе и начисленных страховых взносах застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1100601"/>
+</format>
+<format id="7" fp:ТипДокумента="ИС_СЗВ-4-1" alias="СЗВ-4-1" name="Индивидуальные сведения о страховом стаже и начисленных страховых взносах на обязательное пенсионное страхование застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1100701"/>
+</format>
+<format id="8" fp:ТипДокумента="ИС_СЗВ-4-2" alias="СЗВ-4-2" name="Индивидуальные сведения о страховом стаже и начисленных страховых взносах на обязательное пенсионное страхование застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1100801"/>
+</format>
+<format id="9" fp:ТипДокумента="СВОДНАЯ_ВЕДОМОСТЬ" alias="АДВ-10" name="Сводная ведомость форм документов СЗВ-3, передаваемых работодателем в ПФР">
+<variant id="1" contentType="Xml" gfv="1100901"/>
+</format>
+<format id="10" fp:ТипДокумента="ВЕДОМОСТЬ_УПЛАТЫ" alias="АДВ-11" name="Ведомость уплаты страховых взносов на обязательное пенсионное страхование">
+<variant id="1" contentType="Xml" gfv="1101001"/>
+</format>
+<format id="11" fp:ТипДокумента="КОНВЕРТАЦИЯ" alias="СЗВ-К" name="Сведения о трудовом стаже застрахованного лица за период до регистрации в системе обязательного пенсионного страхования">
+<variant id="1" contentType="Xml" gfv="1101101"/>
+</format>
+<format id="12" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_ДОБРОВОЛЬНОМ_ВСТУПЛЕНИИ_В_ПРАВООТНОШЕНИЯ_В_ЦЕЛЯХ_УПЛАТЫ_ДСВ" alias="ДСВ-1" name="Заявление о добровольном вступлении в правоотношения по обязательному пенсионному страхованию в целях уплаты дополнительных страховых взносов на накопительную часть трудовой пенсии">
+<variant id="1" contentType="Xml" gfv="1101201"/>
+</format>
+<format id="13" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_ВЫБОРЕ_НПФ" alias="ЗПФ" name="Заявление застрахованного лица о переходе из ПФР в негосударственный ПФ">
+<variant id="1" contentType="Xml" gfv="1101301"/>
+</format>
+<format id="14" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_ВЫБОРЕ_УК" alias="ЗВУК" name="Заявление о выборе управляющей компании">
+<variant id="1" contentType="Xml" gfv="1101401"/>
+</format>
+<format id="15" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_ПЕРЕХОДЕ_ИЗ_НПФ" alias="ЗНПФ" name="Заявление о переходе из негосударственного пенсионного фонда">
+<variant id="1" contentType="Xml" gfv="1101501"/>
+</format>
+<format id="16" fp:ТипДокумента="ЗАЯВЛЕНИЕ_О_СМЕНЕ_НПФ" alias="ЗАЯВЛЕНИЕ_О_СМЕНЕ_НПФ" name="Заявление о смене негосударственного пенсионного фонда">
+<variant id="1" contentType="Xml" gfv="1101601"/>
+</format>
+<format id="17" fp:ТипДокумента="РЕЕСТР_ДСВ_РАБОТОДАТЕЛЬ" alias="ДСВ-3" name="Реестр застрахованных лиц, за которых перечислены дополнительные страховые взносы на накопительную часть трудовой пенсии и уплачены страховые взносы работодателя">
+<variant id="1" contentType="Xml" gfv="1101701"/>
+</format>
+<format id="18" fp:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ="true()" alias="РСВ-1" name="Расчет по страховым взносам на ОПС и ОМС плательщиками, производящими выплаты физическим лицам">
+<variant id="1" contentType="Xml" gfv="1101801"/>
+</format>
+<format id="18" fp:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_СВ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ_НАЧИНАЯ_С_2012_ГОДА="true()" alias="РСВ-1" name="Расчет по страховым взносам на ОПС и ОМС плательщиками, производящими выплаты физическим лицам">
+<variant id="2" contentType="Xml" gfv="1101802"/>
+</format>
+<format id="19" fp:РАСЧЕТ_ПО_СТРАХОВЫМ_ВЗНОСАМ_НА_ОПС_И_ОМС_ПЛАТЕЛЬЩИКАМИ_НЕ_ПРОИЗВОДЯЩИМИ_ВЫПЛАТЫ_ФЛ="true()" alias="РСВ-2" name="Расчет по страховым взносам на ОПС и ОМС плательщиками, не производящими выплаты физическим лицам">
+<variant id="1" contentType="Xml" gfv="1101901"/>
+</format>
+<format id="20" fp:ТипДокумента="ОПИСЬ_СВЕДЕНИЙ_ПЕРЕДАВАЕМЫХ_СТРАХОВАТЕЛЕМ" alias="АДВ-6-2" name="Опись сведений, передаваемых страхователем в ПФР">
+<variant id="1" contentType="Xml" gfv="1102001"/>
+</format>
+<format id="21" fp:ТипДокумента="СВЕДЕНИЯ_О_СТРАХОВЫХ_ВЗНОСАХ_И_СТРАХОВОМ_СТАЖЕ_ЗЛ" fp:ВидФормы="СЗВ-6-1" alias="СЗВ-6-1" name="Сведения о начисленных и уплаченных страховых взносах на обязательное пенсионное страхование застрахованных лиц и страховом стаже застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1102101"/>
+</format>
+<format id="22" fp:ТипДокумента="СВЕДЕНИЯ_О_СТРАХОВЫХ_ВЗНОСАХ_И_СТРАХОВОМ_СТАЖЕ_ЗЛ" fp:ВидФормы="СЗВ-6-2" alias="СЗВ-6-2" name="Сведения о начисленных и уплаченных страховых взносах на обязательное пенсионное страхование застрахованных лиц и страховом стаже застрахованного лица">
+<variant id="1" contentType="Xml" gfv="1102201"/>
+</format>
+<format id="23" alias="РВ-3">
+<variant id="1" fp:РАСЧЕТ_ПО_ВЗНОСАМ_ПО_ДОПОЛНИТЕЛЬНОМУ_ТАРИФУ_ЛЭВС="true()" name="Расчет по взносам по дополнительному тарифу для работодателей, использующих труд членов летных экипажей воздушных судов гражданской авиации" contentType="Xml" gfv="1102301"/>
+<variant id="2" fp:РАСЧЕТ_ПО_ВЗНОСАМ_НА_ДОПОЛНИТЕЛЬНОЕ_СОЦИАЛЬНОЕ_ОБЕСПЕЧЕНИЕ="true()" name="Расчет по начисленным и уплаченным взносам в Пенсионный фонд Российской Федерации, применяемый при осуществлении контроля за уплатой взносов для работодателей, уплачивающих взносы на дополнительное социальное обеспечение" contentType="Xml" gfv="1102302"/>
+</format>
+<format id="24" fp:ТипДокумента="СВЕДЕНИЯ_О_СТРАХОВЫХ_ВЗНОСАХ_И_СТРАХОВОМ_СТАЖЕ_ЗЛ" fp:ВидФормы="СПВ-1" alias="СПВ-1" name="Сведения о начисленных и уплаченных страховых взносах на обязательное пенсионное страхование, а также страховом стаже застрахованного лица для установления трудовой пенсии">
+<variant id="1" contentType="Xml" gfv="1102401"/>
+</format>
+<format id="25" fp:ТипДокумента="СВЕДЕНИЯ_О_СУММЕ_ВЫПЛАТ_И_ВОЗНАГРАЖДЕНИЙ" alias="СЗВ-6-3" name="Сведения о сумме выплат и иных вознаграждений, начисляемых плательщиками страховых взносов – страхователями в пользу физического лица">
+<variant id="1" contentType="Xml" gfv="1102501"/>
+</format>
+<format id="26" fp:ТипДокумента="ВХОДЯЩАЯ_ОПИСЬ_ПО_СУММАМ_ВЫПЛАТ" alias="АДВ-6-4" name="Опись документов сведений о сумме выплат и иных вознаграждений, начисляемых плательщиками страховых взносов – страхователями в пользу физического лица">
+<variant id="1" contentType="empty" gfv="1102601"/>
+</format>
+<format id="27" fp:ТипДокумента="ВХОДЯЩАЯ_ОПИСЬ_ПО_СТРАХОВЫМ_ВЗНОСАМ" alias="АДВ-6-3" name="Опись документов о начисленных и уплаченных страховых взносах и страховом стаже застрахованных лиц, передаваемых страхователем в ПФР">
+<variant id="1" contentType="empty" gfv="1102701"/>
+</format>
+</group>
+<group id="12" name="Отправка готового файла в статистику. Это не форма ни разу. Это регионозависимый сервис">
+<format id="1" fp:filename="UnformattedStatistics" name="Отправка готового файла в статистику">
+<variant id="1" gfv="1200101"/>
+</format>
+</group>
+<group id="13" name="Реквизиты. Нужно имя группе, поэтому оно есть">
+<format id="1" name="Реквизиты">
+<variant id="1" gfv="1300101"/>
+</format>
+</group>
+<group id="14" name="Ужасное старье, нужное только для работы с отчетами">
+<format id="1" code="1000001" name="Расчёт целевого сбора на содержание милиции, на благоустройство территорий, на нужды образования и другие цели (Ямал)">
+<variant id="1" gfv="1400101"/>
+</format>
+<format id="2" code="1000002" name="Налоговая декларация по налогу на рекламу (Волгоград)">
+<variant id="1" gfv="1400201"/>
+</format>
+<format id="3" code="1000011" name="Расчет суммы налога с продаж (Волгоград)">
+<variant id="1" gfv="1400301"/>
+</format>
+<format id="4" code="1000014" name="НАЛОГОВЫЙ РАСЧЕТ (ИНФОРМАЦИЯ) О СУММАХ, ВЫПЛАЧЕННЫХ ИНОСТРАННЫМ ОРГАНИЗАЦИЯМ ДОХОДОВ И УДЕРЖАННЫХ НАЛОГОВ">
+<variant id="1" gfv="1400401"/>
+</format>
+<format id="5" code="1000021" name="Форма № П-3 [СТАТЭК]">
+<variant id="1" gfv="1400501"/>
+</format>
+<format id="6" code="1000023" name="Статистическая отчётность">
+<variant id="1" gfv="1400601"/>
+</format>
+<format id="7" code="1151044" name="Сбор за использование наименований Россия и РФ">
+<variant id="1" gfv="1400701"/>
+</format>
+<format id="8" code="1152002" name="Расчет по налогу на имущество предприятий по обособленному подразделению">
+<variant id="1" gfv="1400801"/>
+</format>
+<format id="9" code="1152018" name="Декларация по налогу с продаж (Тюмень)">
+<variant id="1" gfv="1400901"/>
+</format>
+<format id="10" code="6662020" name="Декларация по сбору на нужды образовательных учреждений (Ханты)">
+<variant id="1" gfv="1401001"/>
+</format>
+<format id="11" code="1153000" name="Налог на рекламу (Ульяновск)">
+<variant id="1" gfv="1401101"/>
+</format>
+<format id="12" code="1153002" name="Декларация по налогу на рекламу (Тюмень)">
+<variant id="1" gfv="1401201"/>
+</format>
+<format id="13" code="1153002" name="Налог с продаж (Н.Новгород)">
+<variant id="1" gfv="1401301"/>
+</format>
+<format id="14" code="1153002" name="Расчет по налогу на рекламу (Н.Новгород)">
+<variant id="1" gfv="1401401"/>
+</format>
+<format id="15" code="1153004" name="Декларация по целевому сбору на благоустройство территории (Тюмень)">
+<variant id="1" gfv="1401501"/>
+</format>
+<format id="16" code="1153011" name="Налоговая декларация по налогу с продаж (Адыгея)">
+<variant id="1" gfv="1401601"/>
+</format>
+<format id="17" code="1153011" name="Расчет суммы налога с продаж (Челябинск)">
+<variant id="1" gfv="1401701"/>
+</format>
+<format id="18" code="1153012" name="Декларация по налогу на рекламу (Москва)">
+<variant id="1" gfv="1401801"/>
+</format>
+<format id="19" code="1153012" name="Налог на рекламу (Москва)">
+<variant id="1" gfv="1401901"/>
+</format>
+<format id="20" code="1153012" name="Налог на рекламу (Краснодарский кр.)">
+<variant id="1" gfv="1402001"/>
+</format>
+<format id="21" code="1153012" name="Налог на рекламу (Ямал)">
+<variant id="1" gfv="1402101"/>
+</format>
+<format id="22" code="1153012" name="Налоговая декларация по налогу на рекламу (Адыгея)">
+<variant id="1" gfv="1402201"/>
+</format>
+<format id="23" code="1153013" name="Налог на милицию (Адыгея)">
+<variant id="1" gfv="1402301"/>
+</format>
+<format id="24" code="1153022" name="Налоговая декларация по сбору на уборку территории (Ямал)">
+<variant id="1" gfv="1402401"/>
+</format>
+<format id="25" code="1153032" name="Декларация по налогу на продажу автомобилей, вычислительной техники и персональных компьютеров (Ямал)">
+<variant id="1" gfv="1402501"/>
+</format>
+<format id="26" code="1153042" name="Декларация по сбору на нужды образовательных учреждений (Ямал)">
+<variant id="1" gfv="1402601"/>
+</format>
+<format id="27" code="1153042" name="Налоговая декларация по сбору на содержание милиции, нужды образования (Ямал)">
+<variant id="1" gfv="1402701"/>
+</format>
+<format id="28" code="1153052" name="Налоговая декларация по сбору за право использования местной символики (Ямал)">
+<variant id="1" gfv="1402801"/>
+</format>
+<format id="29" code="1191001" name="Расчет суммы целевых взносов на содержание милиции, благоустройство">
+<variant id="1" gfv="1402901"/>
+</format>
+<format id="30" code="1191002" name="Декларация по налогу на рекламу (Марий Эл)">
+<variant id="1" gfv="1403001"/>
+</format>
+<format id="31" code="1191003" name="Декларация по налогу c продаж (Марий Эл)">
+<variant id="1" gfv="1403101"/>
+</format>
+<format id="32" code="1191101" name="Расчет целевого сбора с граждан на содержание милиции, на благоустройство территорий, на нужды образования и другие цели">
+<variant id="1" gfv="1403201"/>
+</format>
+<format id="33" code="1191102" name="Налоговая декларация по налогу на рекламу (Коми)">
+<variant id="1" gfv="1403301"/>
+</format>
+<format id="34" code="1192302" name="Налог на рекламу (Алтай)">
+<variant id="1" gfv="1403401"/>
+</format>
+<format id="35" code="1192601" name="Налоговая декларация по целевому сбору на содержание милиции и другие цели (Красноярск)">
+<variant id="1" gfv="1403501"/>
+</format>
+<format id="36" code="1192602" name="Налоговая декларация по расчету налога на рекламу (Красноярск)">
+<variant id="1" gfv="1403601"/>
+</format>
+<format id="37" code="1192604" name="Налог на перепродажу автомобилей, вычислительной техники и персональных компьютеров (Красноярск)">
+<variant id="1" gfv="1403701"/>
+</format>
+<format id="38" code="1192605" name="Налоговая декларация по расчету налога на уборку территории (Красноярск)">
+<variant id="1" gfv="1403801"/>
+</format>
+<format id="39" code="1193502" name="Налог на рекламу (Архангельск)">
+<variant id="1" gfv="1403901"/>
+</format>
+<format id="40" code="1193502" name="Налоговая декларация по налогу на рекламу (НАО)">
+<variant id="1" gfv="1404001"/>
+</format>
+<format id="41" code="1195203" name="Налоговая декларация по налогу с продаж (Курган)">
+<variant id="1" gfv="1404101"/>
+</format>
+<format id="42" code="1196402" name="Налог на рекламу (Омск)">
+<variant id="1" gfv="1404201"/>
+</format>
+<format id="43" code="1196402" name="Налог на рекламу, квартал (Омск)">
+<variant id="1" gfv="1404301"/>
+</format>
+<format id="44" code="1196409" name="Налог на рекламу, месяц (Омск)">
+<variant id="1" gfv="1404401"/>
+</format>
+<format id="45" code="1197402" name="Декларация по налогу на рекламу (Саратов)">
+<variant id="1" gfv="1404501"/>
+</format>
+<format id="46" code="1606302" name="Сведения о составе работников, замещающих государственные должности, по полу, возрасту, образованию, стажу работы и оплате их труда">
+<variant id="1" gfv="1404601"/>
+</format>
+<format id="47" code="2409101" name="Оборотная ведомость по счетам бухгалтерского учета кредитной организации (форма N101 Кемерово)">
+<variant id="1" gfv="1404701"/>
+</format>
+<format id="48" code="2409102" name="Отчет о прибылях и убытках кредитной организации (форма №102 Кемерово)">
+<variant id="1" gfv="1404801"/>
+</format>
+<format id="49" code="2503004" name="Отчет об исполнении сметы доходов и расходов по бюджетным средствам(Кемерово)">
+<variant id="1" gfv="1404901"/>
+</format>
+<format id="50" code="2503006" name="Отчет об исполнении сметы доходов и расходов по дополнительным источникам бюджетного финансирования учреждений, находящихся за пределами РФ (Кемерово)">
+<variant id="1" gfv="1405001"/>
+</format>
+<format id="51" code="2503008" name="Отчет о доходах и расходах целевого бюджетного фонда (Кемерово)">
+<variant id="1" gfv="1405101"/>
+</format>
+<format id="52" code="2503010" name="Отчет об исполнении сметы доходов и расходов финансируемых организаций(Кемерово)">
+<variant id="1" gfv="1405201"/>
+</format>
+<format id="53" code="2503018" name="Отчет об исполнении сметы доходов и расходов по б.с. в иностранной валюте (Кемерово)">
+<variant id="1" gfv="1405301"/>
+</format>
+<format id="54" code="2503043" name="Отчет об исполнении сметы доходов и расходов по средствам бюджета союзного государства на территории РФ (Кемерово)">
+<variant id="1" gfv="1405401"/>
+</format>
+<format id="55" code="2503051" name="Отчет о движении основных средств (Кемерово)">
+<variant id="1" gfv="1405501"/>
+</format>
+<format id="56" code="2503053" name="Отчет о движении материальных запасов (Кемерово)">
+<variant id="1" gfv="1405601"/>
+</format>
+<format id="57" code="2503057" name="Справка о полученном финансировании из федерального бюджета (Кемерово)">
+<variant id="1" gfv="1405701"/>
+</format>
+<format id="58" code="2503058" name="Справка об остатках средств, полученных из федерального бюджета (Кемерово)">
+<variant id="1" gfv="1405801"/>
+</format>
+<format id="59" code="2503063" name="Справка о перечислении средств в доходы бюджетов субъектов РФ (Кемерово)">
+<variant id="1" gfv="1405901"/>
+</format>
+<format id="60" code="2503078" name="Отчет о недостачах и хищениях денежный средств и материальных ценностей в бюджетных учреждениях(Кемерово)">
+<variant id="1" gfv="1406001"/>
+</format>
+<format id="61" code="2711002" name="Отчет о прибылях и убытках страховой организации Кемерово (форма №2)">
+<variant id="1" gfv="1406101"/>
+</format>
+<format id="62" code="2711003" name="Отчет об изменениях капитала страховой организации Кемерово (форма № 3)">
+<variant id="1" gfv="1406201"/>
+</format>
+<format id="63" code="2711004" name="Отчет о движении денежных средств страховой организации Кемерово (форма № 4)">
+<variant id="1" gfv="1406301"/>
+</format>
+<format id="64" code="2711005" name="Приложение к бухгалтерскому балансу страховой организации Кемерово (форма № 5)">
+<variant id="1" gfv="1406401"/>
+</format>
+<format id="65" code="2711102" name="Отчет о прибылях и убытках страховой медицинской организации по обязательному медицинскому страхованию (Кемерово)">
+<variant id="1" gfv="1406501"/>
+</format>
+<format id="66" code="2711104" name="Отчет о движении денежных средств страховой медицинской организации по обязательному медицинскому страхованию (Кемерово) (форма № 4а)">
+<variant id="1" gfv="1406601"/>
+</format>
+<format id="67" code="3329011" name="Налоговая декларация по налогу на рекламу (Волгоград)">
+<variant id="1" gfv="1406701"/>
+</format>
+<format id="68" code="4200001" name="Налог на рекламу с нарастающим итогом (Кемерово)">
+<variant id="1" gfv="1406801"/>
+</format>
+<format id="69" code="4200002" name="Налог на рекламу без нарастающего итога (Кемерово)">
+<variant id="1" gfv="1406901"/>
+</format>
+<format id="70" code="4200101" name="Налоговая декларация по налогу на перепродажу автомобилей, вычислительной техники и персональных компьютеров (Новокузнецк)">
+<variant id="1" gfv="1407001"/>
+</format>
+<format id="71" code="4200102" name="Расчет по целевому сбору на содержание местной милиции (Новокузнецк)">
+<variant id="1" gfv="1407101"/>
+</format>
+<format id="72" code="4200103" name="Расчет по налогу на рекламу (Новокузнецк)">
+<variant id="1" gfv="1407201"/>
+</format>
+<format id="73" code="4310001" name="Налоговая декларация по налогу с продаж (Кемерово)">
+<variant id="1" gfv="1407301"/>
+</format>
+<format id="74" code="4310002" name="Налоговая декларация по сбору на содержание милиции (Кемерово)">
+<variant id="1" gfv="1407401"/>
+</format>
+<format id="75" code="4310003" name="Налоговая декларация по налогу на рекламу (Кемерово)">
+<variant id="1" gfv="1407501"/>
+</format>
+<format id="76" code="4310004" name="Налоговая декларация по налогу на пользователей автомобильных дорог (Кемерово)">
+<variant id="1" gfv="1407601"/>
+</format>
+<format id="77" code="4310005" name="Налоговая декларация по налогу с владельцев транспортных средств (Кемерово)">
+<variant id="1" gfv="1407701"/>
+</format>
+<format id="78" code="4310006" name="Налоговая декларация по сбору на нужды образовательных учреждений (Кемерово)">
+<variant id="1" gfv="1407801"/>
+</format>
+<format id="79" code="4310007" name="Налоговая декларация по сбору на уборку территории (Кемерово)">
+<variant id="1" gfv="1407901"/>
+</format>
+<format id="80" code="4310008" name="Налоговая декларация по налогу на перепродажу автомобилей, вычислительной техники и персональных компьютеров (Кемерово)">
+<variant id="1" gfv="1408001"/>
+</format>
+<format id="81" code="4310009" name="Налоговая декларация по налогу на игорный бизнес (Кемерово)">
+<variant id="1" gfv="1408101"/>
+</format>
+<format id="82" code="4310010" name="Загрязнения окружающей среды (Кемерово)">
+<variant id="1" gfv="1408201"/>
+</format>
+<format id="83" code="4310012" name="Налоговая декларация по сбору на уборку территории (Новокузнецк)">
+<variant id="1" gfv="1408301"/>
+</format>
+<format id="84" code="4310014" name="Налоговая декларация по сбору на право торговли (Кемерово)">
+<variant id="1" gfv="1408401"/>
+</format>
+<format id="85" code="4310015" name="Налоговая декларация по сбору на благоустройство территории города (Кемерово)">
+<variant id="1" gfv="1408501"/>
+</format>
+<format id="86" code="4500001" name="Налоговая декларация сбора на содержание муниципальной милиции, благоустройство территории и нужды образования (Курган)">
+<variant id="1" gfv="1408601"/>
+</format>
+<format id="87" code="4500002" name="Налоговая декларация налога на рекламу (Курган)">
+<variant id="1" gfv="1408701"/>
+</format>
+<format id="88" code="4700001" name="Налоговая декларация по сбору на уборку территории (Гатчина)">
+<variant id="1" gfv="1408801"/>
+</format>
+<format id="89" code="4700002" name="Расчет сбора за парковку автотранспорта (Гатчина)">
+<variant id="1" gfv="1408901"/>
+</format>
+<format id="90" code="4700003" name="Расчетная ведомость по сбору на общеобразовательные учреждения (Гатчина)">
+<variant id="1" gfv="1409001"/>
+</format>
+<format id="91" code="4700004" name="Расчет суммы целевого сбора на содержание правоохранительных органов (Гатчина)">
+<variant id="1" gfv="1409101"/>
+</format>
+<format id="92" code="4700005" name="Расчет сумм сбора на нужды образовательных уреждений (Гатчина)">
+<variant id="1" gfv="1409201"/>
+</format>
+<format id="93" code="4700006" name="Расчет транспортного налога (Гатчина)">
+<variant id="1" gfv="1409301"/>
+</format>
+<format id="94" code="5900001" name="Декларация по налогу на нужды образовательных учреждений (Пермь)">
+<variant id="1" gfv="1409401"/>
+</format>
+<format id="95" code="5900002" name="Налоговая декларация по сбору на содержание милиции (Пермь)">
+<variant id="1" gfv="1409501"/>
+</format>
+<format id="96" code="5900003" name="Налоговая декларация по налогу на рекламу (Пермь)">
+<variant id="1" gfv="1409601"/>
+</format>
+<format id="97" code="5900004" name="Налоговая декларация по транспортному налогу (Пермь)">
+<variant id="1" gfv="1409701"/>
+</format>
+<format id="98" code="7000001" name="Налоговая декларация по налогу с продаж (Волгоград)">
+<variant id="1" gfv="1409801"/>
+</format>
+<format id="99" code="7100011" name="Баланс банковский (Кемерово)">
+<variant id="1" gfv="1409901"/>
+</format>
+<format id="100" code="7601000" name="Налог на рекламу (Ярославль)">
+<variant id="1" gfv="1410001"/>
+</format>
+<format id="101" code="8000001" name="Налог с продаж">
+<variant id="1" gfv="1410101"/>
+</format>
+<format id="102" code="8000002" name="Декларация на уплату целевого сбора на благоустройство территории (Челябинск)">
+<variant id="1" gfv="1410201"/>
+</format>
+<format id="103" code="8000002" name="Милиция">
+<variant id="1" gfv="1410301"/>
+</format>
+<format id="104" code="8000003" name="Налоговая декларация по целевому сбору на содержание милиции (Челябинск)">
+<variant id="1" gfv="1410401"/>
+</format>
+<format id="105" code="8000003" name="Территория">
+<variant id="1" gfv="1410501"/>
+</format>
+<format id="106" code="8000004" name="Налог на рекламу (Мордовия)">
+<variant id="1" gfv="1410601"/>
+</format>
+<format id="107" code="8000004" name="Налог на рекламу (Смоленск)">
+<variant id="1" gfv="1410701"/>
+</format>
+<format id="108" code="8000004" name="Налог на рекламу">
+<variant id="1" gfv="1410801"/>
+</format>
+<format id="109" code="8000004" name="Налоговая декларация по налогу на рекламу (Челябинск)">
+<variant id="1" gfv="1410901"/>
+</format>
+<format id="110" code="8000005" name="Расчет сбора на содержание милиции (Челябинск)">
+<variant id="1" gfv="1411001"/>
+</format>
+<format id="111" code="8900001" name="Налоговая декларация по сбору на содержание милиции (Надым)">
+<variant id="1" gfv="1411101"/>
+</format>
+<format id="112" code="8900002" name="Налоговая декларация по сбору на уборку территории населенных пунктов (Надым)">
+<variant id="1" gfv="1411201"/>
+</format>
+<format id="113" code="8900003" name="Налоговая декларация по сбору на нужды образовательных учреждений (Надым)">
+<variant id="1" gfv="1411301"/>
+</format>
+<format id="114" code="9000001" name="Налоговая декларация по целевому сбору на содержание милиции, на благоустройство территории, на нужды образования и другие цели (Волгоград)">
+<variant id="1" gfv="1411401"/>
+</format>
+<format id="115" code="9000011" name="Транспортный налог, авансовые платежи (Бурятия)">
+<variant id="1" gfv="1411501"/>
+</format>
+<format id="116" code="1000006" name="Декларация сведений о полученной лицензии">
+<variant id="1" gfv="1411601"/>
+</format>
+<format id="117" code="6060100" name="Форма П4 - отчеты">
+<variant id="1" gfv="1411701"/>
+</format>
+<format id="118" code="7770001" name="Форма № П-1">
+<variant id="1" gfv="1411801"/>
+</format>
+<format id="119" code="7770002" name="Форма № П-2">
+<variant id="1" gfv="1411901"/>
+</format>
+<format id="120" code="7770003" name="Форма № П-3">
+<variant id="1" gfv="1412001"/>
+</format>
+<format id="121" code="7770004" name="Форма № П-4">
+<variant id="1" gfv="1412101"/>
+</format>
+<format id="122" code="7770005" name="Форма № П-5">
+<variant id="1" gfv="1412201"/>
+</format>
+<format id="123" code="101000101" name="Ф4-ФСС">
+<variant id="1" gfv="1412301"/>
+</format>
+</group>
+<group id="15" name="Доверенность">
+<format id="1" fp:КНД="1166005" shortName="Сообщение о доверенности" name="Информационное сообщение о доверенности, выданной представителю  о наделении его полномочиями по исполнению обязанностей в налоговых органах">
+<variant id="1" fp:ВерсФорм="5.03" contentType="Xml" ТипИнф="ОТЧЕТНОСТЬ5.00" gfv="1500101"/>
+</format>
+<format id="2" fp:КНД="1167005" shortName="Сообщение о представительстве" name="Информационное сообщение о представительстве в отношениях, регулируемых законодательством о налогах и сборах">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ПРЕДСТАВЛЕНИЯ" gfv="1500201"/>
+</format>
+</group>
+<group id="16" name="Требования">
+<format id="1" fp:КНД="1160071" name="Решение о приостановлении проведения выездной налоговой проверки">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600101"/>
+</format>
+<format id="2" fp:КНД="1160073" name="Решение о возобновлении проведения выездной налоговой проверки">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600201"/>
+</format>
+<format id="3" fp:КНД="1160075" name="Решение о продлении или об отказе в продлении сроков представления документов">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600301"/>
+</format>
+<format id="4" fp:КНД="1160076" name="Решение об отложении рассмотрения материалов налоговой проверки в связи с неявкой лица (лиц), участие которого (которых) необходимо для их рассмотрения">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600401"/>
+</format>
+<format id="5" fp:КНД="1165010" name="Справка о проведенной выездной налоговой проверке">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600501"/>
+</format>
+<format id="6" fp:КНД="1165014" name="Поручение об истребовании документов (информации)">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600601"/>
+</format>
+<format id="7" fp:КНД="1165009" name="Уведомление о вызове налогоплательщика (плательщика сбора, налогового агента)">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600701"/>
+</format>
+<format id="8" fp:КНД="1165013" name="Требование о представлении документов (информации)">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600801"/>
+</format>
+<format id="9" fp:КНД="1165019" name="Решение о проведении дополнительных мероприятий налогового контроля">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1600901"/>
+</format>
+<format id="10" fp:КНД="1165020" name="Решение о привлечении к ответственности за совершение налогового правонарушения">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601001"/>
+</format>
+<format id="11" fp:КНД="1165021" name="Решение об отказе в привлечении к ответственности за совершение налогового правонарушения">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601101"/>
+</format>
+<format id="12" fp:КНД="1165022" name="Решение о привлечении лица к ответственности за налоговое правонарушение">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601201"/>
+</format>
+<format id="13" fp:КНД="1165023" name="Решение об отказе в привлечении лица к ответственности за налоговое правонарушение">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601301"/>
+</format>
+<format id="14" fp:КНД="1165031" name="Решения о приостановлении исполнения решений налогового органа, принятых в отношении физического лица">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601401"/>
+</format>
+<format id="15" fp:КНД="1165032" name="Решения о возобновлении исполнения решений налогового органа, принятых в отношении физического лица">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601501"/>
+</format>
+<format id="16" fp:КНД="1165033" name="Решения об отмене решения о привлечении к ответственности за совершение налогового правонарушения в части привлечения физического лица к ответственности за совершение налогового правонарушения">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601601"/>
+</format>
+<format id="17" fp:КНД="1160001" name="Требование об уплате налога, сбора, пени, штрафа">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601701"/>
+</format>
+<format id="18" fp:КНД="1160002" name="Требование об уплате налога, сбора, пени, штрафа физическому лицу">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601801"/>
+</format>
+<format id="19" fp:КНД="1170001" name="Платежный документ">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1601901"/>
+</format>
+<format id="20" fp:КНД="1165004" name="Решение о возмещении (полностью или частично) суммы налога на добавленную стоимость, заявленной к возмещению">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602001"/>
+</format>
+<format id="21" fp:КНД="1165005" name="Решение об отказе в возмещении (полностью или частично) суммы налога на добавленную стоимость, заявленной к возмещению">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602101"/>
+</format>
+<format id="22" fp:КНД="1165026" name="Решение о возмещении суммы налога на добавленную стоимость, заявленной к возмещению, в заявительном порядке">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602201"/>
+</format>
+<format id="23" fp:КНД="1165027" name="Решение об отказе в возмещении суммы налога на добавленную стоимость, заявленной к возмещению, в заявительном порядке">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602301"/>
+</format>
+<format id="24" fp:КНД="1165028" name="Решение об отмене решения о возмещении суммы налога на добавленную стоимость, заявленной к возмещению, в заявительном порядке">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602401"/>
+</format>
+<format id="25" fp:КНД="1165030" name="Решение об отмене решения о возмещении суммы налога на добавленную стоимость, заявленной к возмещению, в заявительном порядке в связи с представлением уточненной налоговой декларации по налогу на добавленную стоимость">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602501"/>
+</format>
+<format id="26" fp:КНД="1165006" name="Решение о возмещении суммы акциза, заявленной к возмещению">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602601"/>
+</format>
+<format id="27" fp:КНД="1165007" name="Решение об отказе (полностью или частично) в возмещении суммы акциза, заявленной к возмещению">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602701"/>
+</format>
+<format id="28" fp:КНД="1165008" name="Мотивированное заключение">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602801"/>
+</format>
+<format id="29" fp:КНД="1121007" name="Свидетельство о постановке на учет российской организации в налоговом органе по месту нахождения на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1602901"/>
+</format>
+<format id="30" fp:КНД="1121029" name="Уведомление о постановке на учет российской организации в налоговом органе на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1603001"/>
+</format>
+<format id="31" fp:КНД="1121013" name="Уведомление о снятии с учета российской организации в налоговом органе на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1603101"/>
+</format>
+<format id="32" fp:КНД="1122022" name="Свидетельство о постановке на учет физического лица в налоговом органе на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1603201"/>
+</format>
+<format id="33" fp:КНД="1122024" name="Уведомление о постановке на учет физического лица в налоговом органе на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1603301"/>
+</format>
+<format id="34" fp:КНД="1122023" name="Уведомление о снятии с учета физического лица в налоговом органе на территории Российской Федерации">
+<variant id="1" fp:ВерсФорм="5.01" contentType="Xml" ТипИнф="ТРЕБОВАНИЯ" gfv="1603401"/>
+</format>
+</group>
+</classification>
