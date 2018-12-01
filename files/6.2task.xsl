@@ -13,7 +13,7 @@
         <x:choose>
             <x:when test="*/@changed = 'true'">
                 <x:copy>
-                    <x:attribute name="change">true</x:attribute>
+                    <x:attribute name="updated">true</x:attribute>
                     <x:apply-templates select="*|@*|text()"/>
                 </x:copy>
             </x:when>
