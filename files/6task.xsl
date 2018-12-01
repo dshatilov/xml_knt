@@ -11,11 +11,12 @@
     <x:variable name="class" select="document('0task.xml')//format/variant"/>
 
 
-    <x:template match="format/periodBegin|periodEnd|isStoredInDataTree|isCheckedByDom|orgTypes">
+    <x:template match="format/periodBegin|periodEnd|isStoredInDataTree|isCheckedByDom|orgTypes|alwaysShowInMenu|disabledInRegions">
         <x:copy>
             <x:apply-templates />
         </x:copy>
     </x:template>
+
 
     <x:template match="format/name">
         <x:variable name="gfv" select="../@gfv"/>
@@ -33,8 +34,9 @@
             </x:choose>
         </x:variable>
         <x:choose>
-            <x:when test="$new != .">
+            <x:when test="not($new = text()) and not($new = '')">
                 <name>
+                    <x:attribute name="changed">true</x:attribute>
                     <x:value-of select="$new"/>
                 </name>
             </x:when>
@@ -62,8 +64,9 @@
             </x:choose>
         </x:variable>
         <x:choose>
-            <x:when test="$new != .">
+            <x:when test="not($new = text()) and not($new = '')">
                 <shortName>
+                    <x:attribute name="changed">true</x:attribute>
                     <x:value-of select="$new"/>
                 </shortName>
             </x:when>
@@ -78,13 +81,14 @@
     <x:template match="format/type">
         <x:variable name="gfv" select="../@gfv"/>
         <x:choose>
-            <x:when test=". = 0">
+            <x:when test="text() = 0">
                 <x:copy>
                     <x:apply-templates/>
                 </x:copy>
             </x:when>
-            <x:when test="$class[@gfv = $gfv]/../../@id">
+            <x:when test="not($class[@gfv = $gfv]/../../@id = text())">
                 <type>
+                    <x:attribute name="changed">true</x:attribute>
                     <x:value-of select="$class[@gfv = $gfv]/../../@id"/>
                 </type>
             </x:when>
@@ -112,8 +116,9 @@
             </x:choose>
         </x:variable>
         <x:choose>
-            <x:when test="$new != . and $new != ''">
+            <x:when test="not($new = text()) and not($new = '')">
                 <knd>
+                    <x:attribute name="changed">true</x:attribute>
                     <x:value-of select="$new"/>
                 </knd>
             </x:when>
@@ -160,8 +165,9 @@
             </x:choose>
         </x:variable>
         <x:choose>
-            <x:when test="$new != .">
+            <x:when test="not($new = text()) and not($new = '')">
                 <version>
+                    <x:attribute name="changed">true</x:attribute>
                     <x:value-of select="$new"/>
                 </version>
             </x:when>
